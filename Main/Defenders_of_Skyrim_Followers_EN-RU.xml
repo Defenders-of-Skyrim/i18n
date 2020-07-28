@@ -1,0 +1,6227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocumentElement>
+  <ESP>
+    <GRUP>TES4</GRUP>
+    <ID>00000000</ID>
+    <EDID />
+    <CHAMP>CNAM</CHAMP>
+    <ORIGINAL>Long-Sighted Films</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>TES4</GRUP>
+    <ID>00000000</ID>
+    <EDID />
+    <CHAMP>SNAM</CHAMP>
+    <ORIGINAL>Adds a 31 followers, based on DOTA2 universe.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>CLAS</GRUP>
+    <ID>0303B866</ID>
+    <EDID>DoS_CMClass</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Sorcerer</ORIGINAL>
+    <TRADUIT>Sorcerer</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>CLAS</GRUP>
+    <ID>03043F33</ID>
+    <EDID>DoS_WRClass</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Ranger</ORIGINAL>
+    <TRADUIT>Ranger</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>FACT</GRUP>
+    <ID>03030109</ID>
+    <EDID>DoS_DefendersOfSkyrimFaction</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Defenders of Skyrim Faction</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>HDPT</GRUP>
+    <ID>03021744</ID>
+    <EDID>HairFemaleVengeful</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>HairVengeful</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>HDPT</GRUP>
+    <ID>03021742</ID>
+    <EDID>FemaleEyesVengeful</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>FemaleEyesVengeful</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>HDPT</GRUP>
+    <ID>030516E1</ID>
+    <EDID>FemaleHeadMedusa</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>FemaleHeadMedusa</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>HDPT</GRUP>
+    <ID>03026F0A</ID>
+    <EDID>FemaleEyesQOP</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>FemaleEyesQOP</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>HDPT</GRUP>
+    <ID>030058E8</ID>
+    <EDID>FemaleEyesLina</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>FemaleEyesLina</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>HDPT</GRUP>
+    <ID>03026F11</ID>
+    <EDID>HairFemaleQOP</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>HairQOP</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>HDPT</GRUP>
+    <ID>030058EB</ID>
+    <EDID>HairFemaleLina</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>HairLina</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>HDPT</GRUP>
+    <ID>030082A1</ID>
+    <EDID>HairFemaleWR</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>HairWR</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>HDPT</GRUP>
+    <ID>030037A1</ID>
+    <EDID>FemaleEyesLanaya</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>FemaleEyesLanaya</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>HDPT</GRUP>
+    <ID>0300E8FF</ID>
+    <EDID>FemaleEyesWR</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>FemaleEyesWR</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>HDPT</GRUP>
+    <ID>0301094F</ID>
+    <EDID>HairFemaleMirana</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>HairMirana</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>HDPT</GRUP>
+    <ID>0301094D</ID>
+    <EDID>FemaleEyesMirana</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>FemaleEyesMirana</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>HDPT</GRUP>
+    <ID>03003D06</ID>
+    <EDID>HairFemaleLanaya</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>HairLanaya</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>HDPT</GRUP>
+    <ID>030710D2</ID>
+    <EDID>FemaleEyesDP</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>FemaleEyesDP</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>HDPT</GRUP>
+    <ID>03017E12</ID>
+    <EDID>MaleEyesDK</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>MaleEyesDK</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>HDPT</GRUP>
+    <ID>03073F9F</ID>
+    <EDID>FemaleHeadDeathProphet</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>FemaleHeadDeathProphet</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>HDPT</GRUP>
+    <ID>03002CE7</ID>
+    <EDID>HairFemalePA</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>HairPA</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>HDPT</GRUP>
+    <ID>03002CE6</ID>
+    <EDID>FemaleEyesPA</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>FemaleEyesPA</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>HDPT</GRUP>
+    <ID>0301990E</ID>
+    <EDID>HairFemaleLegion</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>HairLegion</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>HDPT</GRUP>
+    <ID>0301990C</ID>
+    <EDID>FemaleEyesLegion</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>FemaleEyesLegion</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>HDPT</GRUP>
+    <ID>0304D624</ID>
+    <EDID>FemaleEyesNagaSiren</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>FemaleEyesNagaSiren</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>HDPT</GRUP>
+    <ID>0301E12B</ID>
+    <EDID>HairFemaleDrow</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>HairDrow</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>HDPT</GRUP>
+    <ID>0312C369</ID>
+    <EDID>HairLineFemaleEnchantress</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>HairLineFemaleEnchantress</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>HDPT</GRUP>
+    <ID>0312C368</ID>
+    <EDID>HairFemaleEnchantress</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>HairFemaleEnchantress</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>HDPT</GRUP>
+    <ID>0304DB87</ID>
+    <EDID>FemaleHeadNagaSiren</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>FemaleHeadNagaSiren</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>HDPT</GRUP>
+    <ID>03004DF0</ID>
+    <EDID>HairFemaleCM</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>HairCM</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>HDPT</GRUP>
+    <ID>0301FC39</ID>
+    <EDID>FemaleEyesLuna</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>FemaleEyesLuna</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>HDPT</GRUP>
+    <ID>0301FC3B</ID>
+    <EDID>HairFemaleLuna</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>HairLuna</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>HDPT</GRUP>
+    <ID>0301E129</ID>
+    <EDID>FemaleEyesDrow</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>FemaleEyesDrow</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>HDPT</GRUP>
+    <ID>03004DE8</ID>
+    <EDID>FemaleEyesCM</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>FemaleEyesCM</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>RACE</GRUP>
+    <ID>030279EC</ID>
+    <EDID>DoS_WarlockCenturionRace</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Dwarven Centurion</ORIGINAL>
+    <TRADUIT>Двемерский центурион</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>RACE</GRUP>
+    <ID>03027F53</ID>
+    <EDID>DoS_SpiritBearRace</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Cave Bear</ORIGINAL>
+    <TRADUIT>Пещерный медведь</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>RACE</GRUP>
+    <ID>0304D623</ID>
+    <EDID>NagaSirenRace</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Naga</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>RACE</GRUP>
+    <ID>0304D623</ID>
+    <EDID>NagaSirenRace</EDID>
+    <CHAMP>DESC</CHAMP>
+    <ORIGINAL>The Tsaesci are a violent race of vampiric snake-like people from the continent of Akavir, east of Tamriel.  This variety of Tsaesci resembling the races of men came to be when they "ate" the native men of their homeland. However the exact meaning behind this has been lost to time.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>RACE</GRUP>
+    <ID>03059A35</ID>
+    <EDID>DoS_UrsaBeastRace</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Werewolf</ORIGINAL>
+    <TRADUIT>Вервольф</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>RACE</GRUP>
+    <ID>0306E200</ID>
+    <EDID>DeathProphetRace</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>High Elf</ORIGINAL>
+    <TRADUIT>Высокий эльф</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>RACE</GRUP>
+    <ID>0306E200</ID>
+    <EDID>DeathProphetRace</EDID>
+    <CHAMP>DESC</CHAMP>
+    <ORIGINAL>Also known as "Altmer" in their homeland of Summerset Isle, the high elves are the most strongly gifted in the arcane arts of all the races. They can call upon their Highborn power to regenerate Magicka quickly.</ORIGINAL>
+    <TRADUIT>Известные также как альтмеры на своем родном острове Саммерсет, высокие эльфы - самая магически одаренная из всех рас. Они могут воззвать к своей силе высокорожденных, чтобы быстро восполнить магию.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>RACE</GRUP>
+    <ID>0308585E</ID>
+    <EDID>DoS_MiranaMountRace</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Snowy Sabre Cat</ORIGINAL>
+    <TRADUIT>Снежный саблезуб</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>RACE</GRUP>
+    <ID>03140AF2</ID>
+    <EDID>DoS_VengefulSpiritRace</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Nord</ORIGINAL>
+    <TRADUIT>Норд</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>RACE</GRUP>
+    <ID>03140AF2</ID>
+    <EDID>DoS_VengefulSpiritRace</EDID>
+    <CHAMP>DESC</CHAMP>
+    <ORIGINAL>Citizens of Skyrim, they are a tall and fair-haired people.  Strong and hardy, Nords are famous for their resistance to cold and their talent as warriors. They can use a Battlecry to make opponents flee.</ORIGINAL>
+    <TRADUIT>Жители Скайрима, высокие светловолосые люди. Сильные и выносливые, норды знамениты воинскими талантами и слабой чувствительностью к холоду. Они могут использовать боевой клич, чтобы обратить противника в бегство.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>MGEF</GRUP>
+    <ID>03022CFA</ID>
+    <EDID>AADota2_SummonBearEffect</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Summon Spirit Bear</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>MGEF</GRUP>
+    <ID>03022CFA</ID>
+    <EDID>AADota2_SummonBearEffect</EDID>
+    <CHAMP>DNAM</CHAMP>
+    <ORIGINAL>Summons a Spirit Bear for &lt;dur&gt; seconds wherever the caster is pointing.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>MGEF</GRUP>
+    <ID>03024287</ID>
+    <EDID>AADota2_PhantasmEffect</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Phantasm</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>MGEF</GRUP>
+    <ID>03024287</ID>
+    <EDID>AADota2_PhantasmEffect</EDID>
+    <CHAMP>DNAM</CHAMP>
+    <ORIGINAL>Summons a 3 Chaos Knight Illusions for &lt;dur&gt; seconds wherever the caster is pointing.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>MGEF</GRUP>
+    <ID>030279EF</ID>
+    <EDID>AADota2_WarlockGolemEffect</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Chaotic Offering</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>MGEF</GRUP>
+    <ID>030279EF</ID>
+    <EDID>AADota2_WarlockGolemEffect</EDID>
+    <CHAMP>DNAM</CHAMP>
+    <ORIGINAL>Summons a 2 golems for &lt;dur&gt; seconds wherever the caster is pointing.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>MGEF</GRUP>
+    <ID>03039807</ID>
+    <EDID>AADOTA2_EnchDamageSpeechcraft</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Damage Speechcraft</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>MGEF</GRUP>
+    <ID>03039807</ID>
+    <EDID>AADOTA2_EnchDamageSpeechcraft</EDID>
+    <CHAMP>DNAM</CHAMP>
+    <ORIGINAL>- &lt;mag&gt; to speechcraft.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>MGEF</GRUP>
+    <ID>0303A2CF</ID>
+    <EDID>AADOTA2_QoPVoiceUnrelentingForceEffect</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Scream of Pain</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>MGEF</GRUP>
+    <ID>0303A2CF</ID>
+    <EDID>AADOTA2_QoPVoiceUnrelentingForceEffect</EDID>
+    <CHAMP>DNAM</CHAMP>
+    <ORIGINAL>Creates a gigantic wave of sound in front of Queen of Pain, dealing heavy damage to all enemy units in its wake.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>MGEF</GRUP>
+    <ID>0303B301</ID>
+    <EDID>AADOTA2_CMMagickaRegenAoE</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Regenerate Magicka</ORIGINAL>
+    <TRADUIT>Регенерация магии</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>MGEF</GRUP>
+    <ID>0303B301</ID>
+    <EDID>AADOTA2_CMMagickaRegenAoE</EDID>
+    <CHAMP>DNAM</CHAMP>
+    <ORIGINAL>Magicka regenerates &lt;mag&gt;% faster in &lt;area&gt; feets.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>MGEF</GRUP>
+    <ID>0303E384</ID>
+    <EDID>AADOTA2_LanayaPsiBladesFFAimed</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Psi Blades</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>MGEF</GRUP>
+    <ID>0303E384</ID>
+    <EDID>AADOTA2_LanayaPsiBladesFFAimed</EDID>
+    <CHAMP>DNAM</CHAMP>
+    <ORIGINAL>A spike of psi blade that does &lt;mag&gt; points of pure damage to Health.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>MGEF</GRUP>
+    <ID>0303F3B8</ID>
+    <EDID>AADOTA2_LinaDragonSlaveEffect</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Dragon Slave</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>MGEF</GRUP>
+    <ID>0303F91E</ID>
+    <EDID>AADOTA2_LinaLagunaBladeFFAimed</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Laguna Blade</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>MGEF</GRUP>
+    <ID>0303F91E</ID>
+    <EDID>AADOTA2_LinaLagunaBladeFFAimed</EDID>
+    <CHAMP>DNAM</CHAMP>
+    <ORIGINAL>Fires off a bolt of lightning at a single enemy unit, dealing &lt;mag&gt; damage.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>MGEF</GRUP>
+    <ID>0303F922</ID>
+    <EDID>AADOTA2_LinaFireDamageFFAimed</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Firebolt</ORIGINAL>
+    <TRADUIT>Огненная стрела</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>MGEF</GRUP>
+    <ID>0303F922</ID>
+    <EDID>AADOTA2_LinaFireDamageFFAimed</EDID>
+    <CHAMP>DNAM</CHAMP>
+    <ORIGINAL>A blast of fire that does &lt;mag&gt; points of damage.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>MGEF</GRUP>
+    <ID>0304299E</ID>
+    <EDID>AADOTA2_LagunaBladeFFAimed</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Laguna Blade</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>MGEF</GRUP>
+    <ID>0304299E</ID>
+    <EDID>AADOTA2_LagunaBladeFFAimed</EDID>
+    <CHAMP>DNAM</CHAMP>
+    <ORIGINAL>Fires off a bolt of lightning at a single enemy unit, dealing &lt;mag&gt; damage.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>MGEF</GRUP>
+    <ID>03043466</ID>
+    <EDID>AADOTA2_VoiceWaveOfTerrorEffect</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Marked for Death - Health</ORIGINAL>
+    <TRADUIT>Смертный приговор - Здоровье</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>MGEF</GRUP>
+    <ID>030439CB</ID>
+    <EDID>AADOTA2_VoiceWaveOfTerrorArmorEffect</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Marked for Death - Armor</ORIGINAL>
+    <TRADUIT>Смертный приговор - Броня</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>MGEF</GRUP>
+    <ID>030439CE</ID>
+    <EDID>AADOTA2_WindrunEffect</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Windrun</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>MGEF</GRUP>
+    <ID>0304BB2D</ID>
+    <EDID>AADOTA2_PAEnchFireDamageFFContact</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Fire Damage</ORIGINAL>
+    <TRADUIT>Урон огнем</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>MGEF</GRUP>
+    <ID>0304BB2D</ID>
+    <EDID>AADOTA2_PAEnchFireDamageFFContact</EDID>
+    <CHAMP>DNAM</CHAMP>
+    <ORIGINAL>Burns the target for &lt;mag&gt; points. Targets on fire take extra damage.</ORIGINAL>
+    <TRADUIT>Наносит противнику &lt;mag&gt; ед. урона огнем. Подожженные несут дополнительный урон.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>MGEF</GRUP>
+    <ID>0304E656</ID>
+    <EDID>AADOTA2_NagaSirenMirrorEffect</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Mirror Image</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>MGEF</GRUP>
+    <ID>0304E656</ID>
+    <EDID>AADOTA2_NagaSirenMirrorEffect</EDID>
+    <CHAMP>DNAM</CHAMP>
+    <ORIGINAL>Summons a 3 Naga Siren Illusions for &lt;dur&gt; seconds wherever the caster is pointing.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>MGEF</GRUP>
+    <ID>0304EBBC</ID>
+    <EDID>AADOTA2_NagaSotSEffectArea</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Song of the Siren</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>MGEF</GRUP>
+    <ID>0304EBBC</ID>
+    <EDID>AADOTA2_NagaSotSEffectArea</EDID>
+    <CHAMP>DNAM</CHAMP>
+    <ORIGINAL>All targets in the area that fail to resist are paralyzed for &lt;dur&gt; seconds.</ORIGINAL>
+    <TRADUIT>Все цели в области действия, у которых не сработало сопротивление, парализуются на &lt;dur&gt; с.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>MGEF</GRUP>
+    <ID>030531D7</ID>
+    <EDID>AADOTA2_MedusaVoiceStoneGazeEffect</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Stone Gaze</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>MGEF</GRUP>
+    <ID>0307CBFB</ID>
+    <EDID>AADOTA2_DPWaterWalking</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Waterwalking</ORIGINAL>
+    <TRADUIT>Хождение по воде</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>MGEF</GRUP>
+    <ID>0307CBFB</ID>
+    <EDID>AADOTA2_DPWaterWalking</EDID>
+    <CHAMP>DNAM</CHAMP>
+    <ORIGINAL>Walk on the surface of water for &lt;dur&gt; seconds.</ORIGINAL>
+    <TRADUIT>Позволяет ходить по поверхности воды в течение &lt;dur&gt; с.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ENCH</GRUP>
+    <ID>0302277D</ID>
+    <EDID>AADota2_DrowBowEnch</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Frost Damage</ORIGINAL>
+    <TRADUIT>Урон холодом</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ENCH</GRUP>
+    <ID>030392A2</ID>
+    <EDID>AADota2_DrowArmorEnch</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Fortify Archery</ORIGINAL>
+    <TRADUIT>Повышение навыка: стрельба</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ENCH</GRUP>
+    <ID>030392A0</ID>
+    <EDID>AADota2_DrowBootsEnch</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Speed Burst</ORIGINAL>
+    <TRADUIT>Увеличение скорости</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ENCH</GRUP>
+    <ID>0302277B</ID>
+    <EDID>AADota2_AntimageWeaponEnch</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Magicka Damage</ORIGINAL>
+    <TRADUIT>Урон магии</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ENCH</GRUP>
+    <ID>03039808</ID>
+    <EDID>AADota2_DrowLingerieEnch</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Fortify Speechcraft</ORIGINAL>
+    <TRADUIT>Повышение навыка: красноречие</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ENCH</GRUP>
+    <ID>0303AD97</ID>
+    <EDID>AADota2_CMStockingEnch</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Resist Frost</ORIGINAL>
+    <TRADUIT>Сопротивление холоду</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ENCH</GRUP>
+    <ID>0300CE13</ID>
+    <EDID>AADota2_CMStaffEnchIceSpike</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Ice Spike</ORIGINAL>
+    <TRADUIT>Ледяной шип</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ENCH</GRUP>
+    <ID>03039805</ID>
+    <EDID>AADota2_DrowGauntletEnch</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Damage Speechcraft</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ENCH</GRUP>
+    <ID>0304BB2E</ID>
+    <EDID>AADOTA2_PAManifoldParadoxEnch</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Bound Sword FX</ORIGINAL>
+    <TRADUIT>Bound Sword FX</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ENCH</GRUP>
+    <ID>0303B2FF</ID>
+    <EDID>AADota2_CMDressEnch</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Resist Frost + Regen Magicka</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>SPEL</GRUP>
+    <ID>030531D4</ID>
+    <EDID>AADOTA2_MedusaStoneGaze</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Stone Gaze</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>SPEL</GRUP>
+    <ID>03022CF8</ID>
+    <EDID>AADota2_SummonBear</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Summon Spirit Bear</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>SPEL</GRUP>
+    <ID>03024288</ID>
+    <EDID>AADota2_Phantasm</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Phantasm</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>SPEL</GRUP>
+    <ID>03043464</ID>
+    <EDID>AADOTA2_VoiceWaveOfTerror</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Wave of Terror</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>SPEL</GRUP>
+    <ID>0302596F</ID>
+    <EDID>AADota2_ZeusStorm</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Lightning Storm</ORIGINAL>
+    <TRADUIT>Гроза с молниями</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>SPEL</GRUP>
+    <ID>0302747C</ID>
+    <EDID>AAdota2_QoPFusAbility</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Force Without Effort</ORIGINAL>
+    <TRADUIT>Сила без усилий</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>SPEL</GRUP>
+    <ID>0302747C</ID>
+    <EDID>AAdota2_QoPFusAbility</EDID>
+    <CHAMP>DESC</CHAMP>
+    <ORIGINAL>You stagger 25% less and foes stagger 25% more.</ORIGINAL>
+    <TRADUIT>Вы теряете равновесие на 25% реже, а противники теряют равновесие на 25% чаще.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>SPEL</GRUP>
+    <ID>030439CC</ID>
+    <EDID>AADOTA2_VoiceWindrun</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Windrun</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>SPEL</GRUP>
+    <ID>030279ED</ID>
+    <EDID>AADota2_WarlockOffering</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Chaotic Offering</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>SPEL</GRUP>
+    <ID>0303A2D0</ID>
+    <EDID>AADOTA2_QoPVoiceUnrelentingForce</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Scream Of Pain</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>SPEL</GRUP>
+    <ID>0303E382</ID>
+    <EDID>AADOTA2_LanayaPsiBlades</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Psi Blades</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>SPEL</GRUP>
+    <ID>0303F3B6</ID>
+    <EDID>AADOTA2_LinaDragonSlaveVoice</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Fire Breath</ORIGINAL>
+    <TRADUIT>Огненное дыхание</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>SPEL</GRUP>
+    <ID>0304E653</ID>
+    <EDID>AADOTA2_NagaMirrorImage</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Mirror Image</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>SPEL</GRUP>
+    <ID>0307CBFC</ID>
+    <EDID>AADOTA2_DPWaterwalkingAblilty</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Waterwalking</ORIGINAL>
+    <TRADUIT>Хождение по воде</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>SPEL</GRUP>
+    <ID>0303F91C</ID>
+    <EDID>AADOTA2_LinaLagunaBlade</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Laguna Blade</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>SPEL</GRUP>
+    <ID>0303F920</ID>
+    <EDID>AADOTA2_LinaFirebolt</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Firebolt</ORIGINAL>
+    <TRADUIT>Огненная стрела</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>SPEL</GRUP>
+    <ID>0304EBBA</ID>
+    <EDID>AADOTA2_NagaSotS</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Song of the Siren</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>SPEL</GRUP>
+    <ID>0304094D</ID>
+    <EDID>AADOTA2_LinaDragonSlaveAbility</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>The Fire Within</ORIGINAL>
+    <TRADUIT>Огненный дух</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>SPEL</GRUP>
+    <ID>0304094D</ID>
+    <EDID>AADOTA2_LinaDragonSlaveAbility</EDID>
+    <CHAMP>DESC</CHAMP>
+    <ORIGINAL>Fire Breath shout deals 25% more damage.</ORIGINAL>
+    <TRADUIT>Крик "Огненное дыхание" наносит на 25% больше урона.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>SPEL</GRUP>
+    <ID>03166B3C</ID>
+    <EDID>DoS_LinaArcanaAb</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Lina Arcana Abilities</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>SPEL</GRUP>
+    <ID>03041ED7</ID>
+    <EDID>AADOTA2_LagunaBlade</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Laguna Blade</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>0301EBF5</ID>
+    <EDID>DoS_DrowCuirass</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Traxex Armor</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Light Armor
+</COMMENTAIRE>
+    <ICON>301</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>0301EBF6</ID>
+    <EDID>DoS_DrowBoots</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Traxex Boots</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Light Boot
+</COMMENTAIRE>
+    <ICON>601</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>0301EBF6</ID>
+    <EDID>DoS_DrowBoots</EDID>
+    <CHAMP>DESC</CHAMP>
+    <ORIGINAL>Try to catch up! + 10 to Speed
+</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Light Boot
+</COMMENTAIRE>
+    <ICON>601</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>0301EBF7</ID>
+    <EDID>DoS_DrowGauntlet</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Traxex Gauntlets</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Light Hand
+</COMMENTAIRE>
+    <ICON>701</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>0301EBF7</ID>
+    <EDID>DoS_DrowGauntlet</EDID>
+    <CHAMP>DESC</CHAMP>
+    <ORIGINAL>In childhood she was shy, uncommunicative. Now she prefers to be alone. Instead, she learned to master the crossbow. -50 to Speechcraft.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Light Hand
+</COMMENTAIRE>
+    <ICON>701</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>0301F6C8</ID>
+    <EDID>DoS_MiranaCuirass</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Mirana Armor</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Light Armor
+</COMMENTAIRE>
+    <ICON>301</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>0301F6C9</ID>
+    <EDID>DoS_MiranaGauntlet</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Mirana Gauntlets</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Light Hand
+</COMMENTAIRE>
+    <ICON>701</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>0301F6CA</ID>
+    <EDID>DoS_MiranaBoots</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Mirana Boots</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Light Boot
+</COMMENTAIRE>
+    <ICON>601</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>0301FC34</ID>
+    <EDID>DoS_LunaBodySuit</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Luna Bodysuit</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Light Armor
+</COMMENTAIRE>
+    <ICON>301</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>0301FC35</ID>
+    <EDID>DoS_LunaGauntlet</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Luna Gauntlets</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Light Hand
+</COMMENTAIRE>
+    <ICON>701</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>0301FC36</ID>
+    <EDID>DoS_LunaShield</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Luna Shield</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Light Shield
+</COMMENTAIRE>
+    <ICON>401</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>03020C79</ID>
+    <EDID>DoS_PACape</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Phantom Assassin Cape</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Amulet
+</COMMENTAIRE>
+    <ICON>101</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>03021CAD</ID>
+    <EDID>DoS_VengefulCrown</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Vengeful Spirit Crown</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Light Helmet
+</COMMENTAIRE>
+    <ICON>501</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>03022211</ID>
+    <EDID>DoS_VengefulBoots</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Vengeful Spirit Boots</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Light Boot
+</COMMENTAIRE>
+    <ICON>601</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>03022212</ID>
+    <EDID>DoS_VengefulArmor</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Vengeful Spirit Armor</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Light Armor
+</COMMENTAIRE>
+    <ICON>301</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>03022213</ID>
+    <EDID>DoS_VengefulGloves</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Vengeful Spirit Gloves</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Light Hand
+</COMMENTAIRE>
+    <ICON>701</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>03025322</ID>
+    <EDID>DoS_CMCape</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Crystal Maiden Cape</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Amulet
+</COMMENTAIRE>
+    <ICON>101</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>03025329</ID>
+    <EDID>DoS_KOTLHat</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Ezalor Hat</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>0302532E</ID>
+    <EDID>DoS_WRCape</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Windranger Cape</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Amulet
+</COMMENTAIRE>
+    <ICON>101</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>03025895</ID>
+    <EDID>DoS_StormHat</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Storm Spirit Hat</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>030269A0</ID>
+    <EDID>DoS_SilencerBoots</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Silencer Boots</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Light Boot
+</COMMENTAIRE>
+    <ICON>601</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>030269A1</ID>
+    <EDID>DoS_SilencerCuirass</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Silencer Armor</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Light Armor
+</COMMENTAIRE>
+    <ICON>301</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>030269A2</ID>
+    <EDID>DoS_SilencerGauntlets</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Silencer Gauntlets</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Light Hand
+</COMMENTAIRE>
+    <ICON>701</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>030269A3</ID>
+    <EDID>DoS_SilencerHelmet</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Silencer Helmet</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Light Helmet
+</COMMENTAIRE>
+    <ICON>501</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>030269A4</ID>
+    <EDID>DoS_SilencerShield</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Silencer Shield</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Light Shield
+</COMMENTAIRE>
+    <ICON>401</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>0302747A</ID>
+    <EDID>DoS_QOPBreastplate</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Queen of Pain Breastplate</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>0302747B</ID>
+    <EDID>DoS_QOPStocking</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Queen of Pain Stockings</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Unarmored Boot
+</COMMENTAIRE>
+    <ICON>600</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>03027480</ID>
+    <EDID>DoS_QOPGauntlents</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Queen of Pain Gauntlents</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Unarmed
+</COMMENTAIRE>
+    <ICON>700</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>03033C72</ID>
+    <EDID>DoS_DrowLingerie</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Traxex Lingerie</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Unarmored
+</COMMENTAIRE>
+    <ICON>300</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>03033C72</ID>
+    <EDID>DoS_DrowLingerie</EDID>
+    <CHAMP>DESC</CHAMP>
+    <ORIGINAL>No one saw her true beauty. If you see this outfit on her, then maybe you are the one for whom she kept the reverse side of her beauty. + 15 to Speechcraft.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Unarmored
+</COMMENTAIRE>
+    <ICON>300</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>0303AD9A</ID>
+    <EDID>DoS_CMStocking</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Crystal Maiden Stocking</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>0303AD9A</ID>
+    <EDID>DoS_CMStocking</EDID>
+    <CHAMP>DESC</CHAMP>
+    <ORIGINAL>These silk stockings warm the owner even in the harsh climate of Skyrim. They also fit in color to Rylai. +10 to Resist Frost</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>0303B2FE</ID>
+    <EDID>DoS_CMBoots</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Crystal Maiden Boots</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Unarmored Boot
+</COMMENTAIRE>
+    <ICON>600</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>0303B2FE</ID>
+    <EDID>DoS_CMBoots</EDID>
+    <CHAMP>DESC</CHAMP>
+    <ORIGINAL>These fur boots warm the owner even in the harsh climate of Skyrim. + 10 to Resist Frost</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Unarmored Boot
+</COMMENTAIRE>
+    <ICON>600</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>0303B303</ID>
+    <EDID>DoS_CMCuffs</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Crystal Maiden Cuffs</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Unarmed
+</COMMENTAIRE>
+    <ICON>700</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>0303B303</ID>
+    <EDID>DoS_CMCuffs</EDID>
+    <CHAMP>DESC</CHAMP>
+    <ORIGINAL>These silk cuffs warm the owner even in the harsh climate of Skyrim. + 10 to Resist Frost</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Unarmed
+</COMMENTAIRE>
+    <ICON>700</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>0303D8B7</ID>
+    <EDID>DoS_CMDress</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Crystal Maiden Dress</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Unarmored
+</COMMENTAIRE>
+    <ICON>300</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>0303D8B7</ID>
+    <EDID>DoS_CMDress</EDID>
+    <CHAMP>DESC</CHAMP>
+    <ORIGINAL>That silk dress warm the owner even in the harsh climate of Skyrim. They also fit in color to Rylai. But don't try to look under skirt! +10 to Resist Frost, Magicka regenerates 150% faster</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Unarmored
+</COMMENTAIRE>
+    <ICON>300</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>0303DE1C</ID>
+    <EDID>DoS_CMHood</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Crystal Maiden Hood</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>0303EE4E</ID>
+    <EDID>DoS_LanayaBracers</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Templar Assassin Bracers</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Unarmed
+</COMMENTAIRE>
+    <ICON>700</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>0303EE50</ID>
+    <EDID>DoS_LanayaMask</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Templar Assassin Mask</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>0303EE52</ID>
+    <EDID>DoS_LanayaDress</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Templar Assassin Dress</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Unarmored
+</COMMENTAIRE>
+    <ICON>300</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>0304A03C</ID>
+    <EDID>DoS_LinaSleeves</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Lina Sleeves</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Unarmed
+</COMMENTAIRE>
+    <ICON>700</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>0304A59F</ID>
+    <EDID>DoS_LinaBoots</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Lina Boots</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Light Boot
+</COMMENTAIRE>
+    <ICON>601</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>0304B066</ID>
+    <EDID>DoS_LinaDress</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Lina Dress</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Light Armor
+</COMMENTAIRE>
+    <ICON>301</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>03051174</ID>
+    <EDID>DoS_NagaSirenArmorDef</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Naga Siren Armor</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Light Armor
+</COMMENTAIRE>
+    <ICON>301</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>03051176</ID>
+    <EDID>DoS_NagaSirenBracersDef</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Naga Siren Bracers</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Light Hand
+</COMMENTAIRE>
+    <ICON>701</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>03051C47</ID>
+    <EDID>DoS_MedusaCrownDef</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Medusa Crown</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Circlet
+</COMMENTAIRE>
+    <ICON>102</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>03051C49</ID>
+    <EDID>DoS_MedusaArmorDef</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Medusa Armor</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Light Armor
+</COMMENTAIRE>
+    <ICON>301</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>03051C4A</ID>
+    <EDID>DoS_MedusaBracersDef</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Medusa Bracers</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Light Hand
+</COMMENTAIRE>
+    <ICON>701</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>0307FAC8</ID>
+    <EDID>DoS_DPAmulet</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Death Prophet Amulet</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Amulet
+</COMMENTAIRE>
+    <ICON>101</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>03082994</ID>
+    <EDID>DoS_DPDress</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Death Prophet Dress</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Unarmored
+</COMMENTAIRE>
+    <ICON>300</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>03099FE8</ID>
+    <EDID>DoS_LunaHelmet</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Luna Helmet</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Light Helmet
+</COMMENTAIRE>
+    <ICON>501</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>030CEA21</ID>
+    <EDID>DoS_QOPPanties</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Queen of Pain Panties</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>030E606C</ID>
+    <EDID>DoS_QOPPauldrons</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Queen of Pain Pauldrons</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>030EBE00</ID>
+    <EDID>DoS_QOPBoots</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Queen of Pain Boots</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Unarmored Boot
+</COMMENTAIRE>
+    <ICON>600</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>030F4A5F</ID>
+    <EDID>DoS_SvenBootsDefault</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Sven Boots</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Heavy Boot
+</COMMENTAIRE>
+    <ICON>602</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>030F4A5D</ID>
+    <EDID>DoS_SvenHelmetDefault</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Sven Helmet</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Heavy Helmet
+</COMMENTAIRE>
+    <ICON>502</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>030FA7F7</ID>
+    <EDID>DoS_WindrangerBoots</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Windranger Boots</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Light Boot
+</COMMENTAIRE>
+    <ICON>601</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>030092D3</ID>
+    <EDID>DoS_PAHelmet</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Phantom Assassin Helmet</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Light Helmet
+</COMMENTAIRE>
+    <ICON>501</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>03013C88</ID>
+    <EDID>ArmorOmniknightBoots</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Omniknight Boots</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Heavy Boot
+</COMMENTAIRE>
+    <ICON>602</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>03013C89</ID>
+    <EDID>ArmorOmniknightCuirass</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Omniknight Armor</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Heavy Armor
+</COMMENTAIRE>
+    <ICON>302</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>03013C8A</ID>
+    <EDID>ArmorOmniknightGauntlets</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Omniknight Gauntlets</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Heavy Hand
+</COMMENTAIRE>
+    <ICON>702</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>030152A2</ID>
+    <EDID>ArmorOmniknightCape</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Omniknight Cape</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Amulet
+</COMMENTAIRE>
+    <ICON>101</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>03017345</ID>
+    <EDID>ArmorDKBoots</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Dragon Knight Boots</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Light Boot
+</COMMENTAIRE>
+    <ICON>601</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>03017346</ID>
+    <EDID>ArmorDKCuirass</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Dragon Knight Armor</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Light Armor
+</COMMENTAIRE>
+    <ICON>301</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>03017347</ID>
+    <EDID>ArmorDKGauntlets</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Dragon Knight Gauntlets</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Light Hand
+</COMMENTAIRE>
+    <ICON>701</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>03017348</ID>
+    <EDID>ArmorDKHelmet</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Dragon Knight Helmet</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Light Helmet
+</COMMENTAIRE>
+    <ICON>501</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>0301837A</ID>
+    <EDID>ArmorDKShield</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Dragon Knight Shield</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Light Shield
+</COMMENTAIRE>
+    <ICON>401</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>0301E690</ID>
+    <EDID>DoS_DrowHood</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Traxex Hood</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>0301EBF4</ID>
+    <EDID>DoS_DrowCapeArmor</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Traxex Cape</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Amulet
+</COMMENTAIRE>
+    <ICON>101</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>BOOK</GRUP>
+    <ID>03041ED9</ID>
+    <EDID>DoS_SpellTomeLagunaBlade</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Spell Tome: Laguna Blade</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>17</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>BOOK</GRUP>
+    <ID>03041ED9</ID>
+    <EDID>DoS_SpellTomeLagunaBlade</EDID>
+    <CHAMP>DESC</CHAMP>
+    <ORIGINAL>&lt;font face'$HandwrittenFont'&gt;&lt;font size='40'&gt;&lt;p align='center'&gt;
+Laguna Blade</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>17</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>BOOK</GRUP>
+    <ID>03158144</ID>
+    <EDID>DoS_OSA_LoversNoteT1</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Lover's Note, v1</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>16</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>BOOK</GRUP>
+    <ID>03158144</ID>
+    <EDID>DoS_OSA_LoversNoteT1</EDID>
+    <CHAMP>DESC</CHAMP>
+    <ORIGINAL>[pagebreak]
+&lt;p align="center"&gt;
+
+
+Lover's Note
+Book One
+
+NSFW
+
+by
+Unknown Author
+&lt;/p&gt;
+
+
+
+[pagebreak]
+&lt;img src='img://Textures/interface/books/longsightedfilms/lovers_note/pt_1/1.jpg' height='471' width='296'&gt;
+[pagebreak]
+&lt;p align="center"&gt;&lt;b&gt;Name 1&lt;/b&gt;&lt;/p&gt;
+
+
+&lt;i&gt;Notes:
+Note 1, Note 2, Long note, Very looooooooong lote
+&lt;/i&gt;
+[pagebreak]</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>16</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>BOOK</GRUP>
+    <ID>03158145</ID>
+    <EDID>DoS_OSA_LoversNoteT2</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>( ?° ?? ?°) Lover's Note, v2</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>16</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>BOOK</GRUP>
+    <ID>03158145</ID>
+    <EDID>DoS_OSA_LoversNoteT2</EDID>
+    <CHAMP>DESC</CHAMP>
+    <ORIGINAL>[pagebreak]
+&lt;p align="center"&gt;
+
+
+Lover's Note
+Book Two
+
+NSFW
+
+by
+Unknown Author
+&lt;/p&gt;
+
+
+
+[pagebreak]
+&lt;p align="left"&gt;4 Sun's Height, 2920
+The Imperial City, Cyrodiil
+
+"I am through with lusty women. The Empress, Rijja, all too lusty, a lust for love leads to a lust for power," the Emperor shrugged his shoulders. "But a priestess-in-training with a certain healthy appetite sounds ideal.  Now what were you saying about the Black Gate?"&lt;/p&gt;
+[pagebreak]</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>16</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>BOOK</GRUP>
+    <ID>03158146</ID>
+    <EDID>DoS_OSA_LoversNoteT3</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>( ?° ?? ?°) Lover's Note, v3</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>16</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>BOOK</GRUP>
+    <ID>03158146</ID>
+    <EDID>DoS_OSA_LoversNoteT3</EDID>
+    <CHAMP>DESC</CHAMP>
+    <ORIGINAL>[pagebreak]
+&lt;p align="center"&gt;
+
+
+Lover's Note
+Book Three
+
+NSFW
+
+by
+Unknown Author
+&lt;/p&gt;
+
+
+
+[pagebreak]
+&lt;p align="left"&gt;4 Sun's Height, 2920
+The Imperial City, Cyrodiil
+
+"I am through with lusty women. The Empress, Rijja, all too lusty, a lust for love leads to a lust for power," the Emperor shrugged his shoulders. "But a priestess-in-training with a certain healthy appetite sounds ideal.  Now what were you saying about the Black Gate?"&lt;/p&gt;
+[pagebreak]</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>16</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>BOOK</GRUP>
+    <ID>03158147</ID>
+    <EDID>DoS_OSA_LoversNoteT4</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>( ?° ?? ?°) Lover's Note, v4</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>16</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>BOOK</GRUP>
+    <ID>03158147</ID>
+    <EDID>DoS_OSA_LoversNoteT4</EDID>
+    <CHAMP>DESC</CHAMP>
+    <ORIGINAL>[pagebreak]
+&lt;p align="center"&gt;
+
+
+Lover's Note
+Book Four
+
+NSFW
+
+by
+Unknown Author
+&lt;/p&gt;
+
+
+
+[pagebreak]
+&lt;p align="left"&gt;4 Sun's Height, 2920
+The Imperial City, Cyrodiil
+
+"I am through with lusty women. The Empress, Rijja, all too lusty, a lust for love leads to a lust for power," the Emperor shrugged his shoulders. "But a priestess-in-training with a certain healthy appetite sounds ideal.  Now what were you saying about the Black Gate?"&lt;/p&gt;
+[pagebreak]</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>16</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>DOOR</GRUP>
+    <ID>0302A562</ID>
+    <EDID>ABX_Arch_Door</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Door</ORIGINAL>
+    <TRADUIT>Дверь</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>22</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>0300A2FB</ID>
+    <EDID>DoS_PA_Sword</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Phantom Assassin Sword</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Sword
+</COMMENTAIRE>
+    <ICON>1003</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>0300C8AF</ID>
+    <EDID>DoS_CMDefaultStaff</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Crystal Maiden Ice Staff</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Staff
+</COMMENTAIRE>
+    <ICON>1005</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>030131BD</ID>
+    <EDID>DoS_OmniknightHammer</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Omniknight Warhammer</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>WarHammer
+</COMMENTAIRE>
+    <ICON>1008</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>0301687D</ID>
+    <EDID>DoS_Kunkka_Sword</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Tidebringer</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Sword
+</COMMENTAIRE>
+    <ICON>1003</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>03017E15</ID>
+    <EDID>DoS_DK_Sword</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Dragon Knight Sword</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Sword
+</COMMENTAIRE>
+    <ICON>1003</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>0301AE9D</ID>
+    <EDID>DoS_LegionSword</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Legion Commander Sword</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>WarHammer
+</COMMENTAIRE>
+    <ICON>1008</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>0301CB95</ID>
+    <EDID>DoS_AntiMage_Sword</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Anti-Mage Sword</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Sword
+</COMMENTAIRE>
+    <ICON>1003</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>0301F15E</ID>
+    <EDID>DoS_DrowBow</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Drow Ranger Bow</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Bow
+</COMMENTAIRE>
+    <ICON>1000</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>0301F6C4</ID>
+    <EDID>DoS_MiranaBow</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Mirana Bow</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Bow
+</COMMENTAIRE>
+    <ICON>1000</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>0301FC2F</ID>
+    <EDID>DoS_Luna_Sword</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Luna Sword</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Sword
+</COMMENTAIRE>
+    <ICON>1003</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>0302277A</ID>
+    <EDID>DoS_VengefulDagger</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Vengeful Spirit Dagger</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>WarAxe
+</COMMENTAIRE>
+    <ICON>1007</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>03025330</ID>
+    <EDID>DoS_WRBow</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Windranger Bow</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Bow
+</COMMENTAIRE>
+    <ICON>1000</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>03026999</ID>
+    <EDID>DoS_Silencer_Sword</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Silencer Sword</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Sword
+</COMMENTAIRE>
+    <ICON>1003</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>03027481</ID>
+    <EDID>DoS_QoP_Dagger</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Queen of Pain Dagger</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Sword
+</COMMENTAIRE>
+    <ICON>1003</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>03047A71</ID>
+    <EDID>DoS_Juggernaut_Sword</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Juggernaut Sword</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Sword
+</COMMENTAIRE>
+    <ICON>1003</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>03049567</ID>
+    <EDID>DoS_PA_Sword_Lodas_Set</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Gleaming Seal</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>BattleAxe
+</COMMENTAIRE>
+    <ICON>1006</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>03049567</ID>
+    <EDID>DoS_PA_Sword_Lodas_Set</EDID>
+    <CHAMP>DESC</CHAMP>
+    <ORIGINAL>With but a flash, a final fate is sealed.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>BattleAxe
+</COMMENTAIRE>
+    <ICON>1006</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>0304B5CA</ID>
+    <EDID>DoS_PAManifoldParadox</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Manifold Paradox</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Sword
+</COMMENTAIRE>
+    <ICON>1003</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>0304F124</ID>
+    <EDID>DoS_NagaSirenDefaultWeapon</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Naga Siren Sword</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Sword
+</COMMENTAIRE>
+    <ICON>1003</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>0305373C</ID>
+    <EDID>DoS_MedusaBowDefault</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Medusa Bow</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Bow
+</COMMENTAIRE>
+    <ICON>1000</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>03003235</ID>
+    <EDID>DoS_TemplarAssassin</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Lanaya</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Imperial - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>030F4A61</ID>
+    <EDID>DoS_Sven</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Sven</ORIGINAL>
+    <TRADUIT>Свен</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Nord - Мужчина</COMMENTAIRE>
+    <ICON>1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>030037AF</ID>
+    <EDID>DoS_PhantomAssassin</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Mortred</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Imperial - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>03004DF2</ID>
+    <EDID>DoS_CrystalMaiden</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Rylai Crestfall</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Imperial - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>03004DF2</ID>
+    <EDID>DoS_CrystalMaiden</EDID>
+    <CHAMP>SHRT</CHAMP>
+    <ORIGINAL>Rylai</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Imperial - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>030058EC</ID>
+    <EDID>DoS_Lina</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Lina Inverse</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Imperial - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>030058EC</ID>
+    <EDID>DoS_Lina</EDID>
+    <CHAMP>SHRT</CHAMP>
+    <ORIGINAL>Lina</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Imperial - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>030082A7</ID>
+    <EDID>DoS_Windranger</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Lyralei Windrunner</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Imperial - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>030082A7</ID>
+    <EDID>DoS_Windranger</EDID>
+    <CHAMP>SHRT</CHAMP>
+    <ORIGINAL>Lyralei</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Imperial - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>0311AAA1</ID>
+    <EDID>DoS_NagaSirenHuman</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Slithice</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Imperial - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>03010955</ID>
+    <EDID>DoS_Mirana</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Mirana Nightshade</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Nord - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>03010955</ID>
+    <EDID>DoS_Mirana</EDID>
+    <CHAMP>SHRT</CHAMP>
+    <ORIGINAL>Mirana</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Nord - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>03013723</ID>
+    <EDID>DoS_Omniknight</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Purist Thunderwrath</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Nord - Мужчина</COMMENTAIRE>
+    <ICON>1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>0311D96B</ID>
+    <EDID>DoS_CrystalMaidenArcana</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Rylai Crestfall</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Imperial - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>0311D96B</ID>
+    <EDID>DoS_CrystalMaidenArcana</EDID>
+    <CHAMP>SHRT</CHAMP>
+    <ORIGINAL>Rylai</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Imperial - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>0301631A</ID>
+    <EDID>DoS_Kunkka</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Admiral Kunkka</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Nord - Мужчина</COMMENTAIRE>
+    <ICON>1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>0301631A</ID>
+    <EDID>DoS_Kunkka</EDID>
+    <CHAMP>SHRT</CHAMP>
+    <ORIGINAL>Kunkka</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Nord - Мужчина</COMMENTAIRE>
+    <ICON>1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>03017E16</ID>
+    <EDID>DoS_DragonKnight</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Davion</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Nord - Мужчина</COMMENTAIRE>
+    <ICON>1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>0301B44A</ID>
+    <EDID>DoS_Axe</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Mogul Khan</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Orc - Мужчина</COMMENTAIRE>
+    <ICON>1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>0312949D</ID>
+    <EDID>DoS_EnchantressAntro</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Aiushtha</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Wood Elf - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>030193A9</ID>
+    <EDID>DoS_LegionCommander</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Tresdin</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Redguard - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>0301B9AF</ID>
+    <EDID>DoS_ChaosKnight</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Chaos Knight</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Dremora - Мужчина</COMMENTAIRE>
+    <ICON>1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>03129496</ID>
+    <EDID>DoS_EnchantressHuman</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Aiushtha</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Wood Elf - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>0301CB91</ID>
+    <EDID>DoS_AntiMage</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Magina</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Imperial - Мужчина</COMMENTAIRE>
+    <ICON>1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>0301E125</ID>
+    <EDID>DoS_DrowRanger</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Traxex</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Imperial - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>0301FC3C</ID>
+    <EDID>DoS_Luna</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Luna Moonfang</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Nord - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>0301FC3C</ID>
+    <EDID>DoS_Luna</EDID>
+    <CHAMP>SHRT</CHAMP>
+    <ORIGINAL>Luna</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Nord - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>03021741</ID>
+    <EDID>DoS_VengefulSpirit</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Shendelzare</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Nord - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>03022CF6</ID>
+    <EDID>DoS_SpiritBear</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Spirit Bear</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Snow Bear - Мужчина</COMMENTAIRE>
+    <ICON>1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>03024D52</ID>
+    <EDID>DoS_Courier</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Courier</ORIGINAL>
+    <TRADUIT>Гонец</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Horse - Мужчина</COMMENTAIRE>
+    <ICON>1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>0302428A</ID>
+    <EDID>DoS_ChaosKnightIllusion</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Chaos Knight</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Dremora - Мужчина</COMMENTAIRE>
+    <ICON>1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>03022CF7</ID>
+    <EDID>DoS_LoneDruid</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Sylla</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Wood Elf - Мужчина</COMMENTAIRE>
+    <ICON>1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>03025327</ID>
+    <EDID>DoS_KOTL</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Ezalor</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Nord - Мужчина</COMMENTAIRE>
+    <ICON>1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>03025896</ID>
+    <EDID>DoS_StormSpirit</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Raijin Thunderkeg</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Nord - Мужчина</COMMENTAIRE>
+    <ICON>1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>03025896</ID>
+    <EDID>DoS_StormSpirit</EDID>
+    <CHAMP>SHRT</CHAMP>
+    <ORIGINAL>Raijin</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Nord - Мужчина</COMMENTAIRE>
+    <ICON>1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>0302596D</ID>
+    <EDID>DoS_Zeus</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Zeus</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Nord - Мужчина</COMMENTAIRE>
+    <ICON>1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>030269A5</ID>
+    <EDID>DoS_Silencer</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Nortrom</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Nord - Мужчина</COMMENTAIRE>
+    <ICON>1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>0314F4E6</ID>
+    <EDID>DoS_DeathProphetLegged</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Krobelus</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>High Elf - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>03026F12</ID>
+    <EDID>DoS_QueenOfPain</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Akasha</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>High Elf - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>030279E5</ID>
+    <EDID>DoS_Invoker</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Kael</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Wood Elf - Мужчина</COMMENTAIRE>
+    <ICON>1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>030279EA</ID>
+    <EDID>DoS_WarlockGolem</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Warlock Centurion</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Dwarven Centurion - Мужчина</COMMENTAIRE>
+    <ICON>1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>030279E8</ID>
+    <EDID>DoS_Warlock</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Demnok Lannik</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Nord - Мужчина</COMMENTAIRE>
+    <ICON>1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>030279E8</ID>
+    <EDID>DoS_Warlock</EDID>
+    <CHAMP>SHRT</CHAMP>
+    <ORIGINAL>Demnok</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Nord - Мужчина</COMMENTAIRE>
+    <ICON>1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>0304750B</ID>
+    <EDID>DoS_Juggernaut</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Yurnero</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Nord - Мужчина</COMMENTAIRE>
+    <ICON>1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>0304DB88</ID>
+    <EDID>DoS_NagaSiren</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Slithice</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Naga - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>03160DA4</ID>
+    <EDID>DoS_LinaArcana</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Lina Inverse</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Imperial - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>03160DA4</ID>
+    <EDID>DoS_LinaArcana</EDID>
+    <CHAMP>SHRT</CHAMP>
+    <ORIGINAL>Lina</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Imperial - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>0304E655</ID>
+    <EDID>DoS_NagaSirenIllusion</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Slithice</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Naga - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>030516DF</ID>
+    <EDID>DoS_Medusa</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Medusa</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Naga - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>0316C8D0</ID>
+    <EDID>DoS_PhantomAssassinArcana</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Mortred</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Imperial - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>03172668</ID>
+    <EDID>DoS_DarkWillow</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Mireska Sunbreeze</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Imperial - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>03172668</ID>
+    <EDID>DoS_DarkWillow</EDID>
+    <CHAMP>SHRT</CHAMP>
+    <ORIGINAL>Mireska</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Imperial - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>03056B69</ID>
+    <EDID>DoS_Ursa</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Ursa</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Werewolf - Мужчина</COMMENTAIRE>
+    <ICON>1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>030710D0</ID>
+    <EDID>DoS_DeathProphet</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Krobelus</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>High Elf - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>0308585F</ID>
+    <EDID>DoS_MiranaMount</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Sagan</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Snowy Sabre Cat - Мужчина</COMMENTAIRE>
+    <ICON>1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>CELL</GRUP>
+    <ID>000133C6</ID>
+    <EDID>RiverwoodSleepingGiantInn</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Sleeping Giant Inn</ORIGINAL>
+    <TRADUIT>Таверна "Спящий великан"</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>CELL</GRUP>
+    <ID>000138BE</ID>
+    <EDID>OldHroldanInn</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Old Hroldan Inn</ORIGINAL>
+    <TRADUIT>Таверна "Старый Хролдан"</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>CELL</GRUP>
+    <ID>00013814</ID>
+    <EDID>WinterholdTheFrozenHearth</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>The Frozen Hearth</ORIGINAL>
+    <TRADUIT>"Замерзший очаг"</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>CELL</GRUP>
+    <ID>000165B5</ID>
+    <EDID>WhiterunJorrvaskr</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Jorrvaskr</ORIGINAL>
+    <TRADUIT>Йоррваскр</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>CELL</GRUP>
+    <ID>00013870</ID>
+    <EDID>RoriksteadFrostfruitInn</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Frostfruit Inn</ORIGINAL>
+    <TRADUIT>Таверна "Мороженый фрукт"</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>CELL</GRUP>
+    <ID>000165B7</ID>
+    <EDID>WhiterunDrunkenHuntsman</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>The Drunken Huntsman</ORIGINAL>
+    <TRADUIT>"Пьяный охотник"</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>CELL</GRUP>
+    <ID>0001605E</ID>
+    <EDID>WhiterunBanneredMare</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>The Bannered Mare</ORIGINAL>
+    <TRADUIT>"Гарцующая кобыла"</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>CELL</GRUP>
+    <ID>00013A5C</ID>
+    <EDID>IvarsteadVilemyrInn</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Vilemyr Inn</ORIGINAL>
+    <TRADUIT>Таверна "Вайлмир"</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>CELL</GRUP>
+    <ID>00016A0E</ID>
+    <EDID>SolitudeWinkingSkeever</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>The Winking Skeever</ORIGINAL>
+    <TRADUIT>"Смеющаяся крыса"</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>CELL</GRUP>
+    <ID>000165A7</ID>
+    <EDID>WhiterunTempleofKynareth</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Temple of Kynareth</ORIGINAL>
+    <TRADUIT>Храм Кинарет</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WRLD</GRUP>
+    <ID>0000003C</ID>
+    <EDID>Tamriel</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Skyrim</ORIGINAL>
+    <TRADUIT>Скайрим</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>DIAL</GRUP>
+    <ID>000142B5</ID>
+    <EDID>DialogueGenericHello</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>DialogueGenericHello</ORIGINAL>
+    <TRADUIT>DialogueGenericHello</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7CB</ID>
+    <EDID>DialogueGenericHello</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Who calls me?</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Ursa (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7CC</ID>
+    <EDID>DialogueGenericHello</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>I defend what is mine.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Ursa (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7CD</ID>
+    <EDID>DialogueGenericHello</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>R-r-r-r-r-r-r-r-r uuuuuuunuh!</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Ursa (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7CE</ID>
+    <EDID>DialogueGenericHello</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>It is my spirit that keeps me safe, and not mere armor.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Ursa (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7CF</ID>
+    <EDID>DialogueGenericHello</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Come not near the darkwoods where my kindred sleep.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Ursa (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>030B44FD</ID>
+    <EDID>DialogueGenericHello</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Ursa following you.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Quest : 000750BA (EDID)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>030B44FE</ID>
+    <EDID>DialogueGenericHello</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Ursa will waiting you here.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Quest : 000750BA (EDID)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>030B73CF</ID>
+    <EDID>DialogueGenericHello</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Maybe i'm a bear, but even a bear can't do that.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Quest : 000750BA (EDID)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>030B73CD</ID>
+    <EDID>DialogueGenericHello</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Anything else?</ORIGINAL>
+    <TRADUIT>Что-то еще?</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Quest : 000750BA (EDID)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>030B73CE</ID>
+    <EDID>DialogueGenericHello</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>I'm sorry,  but bear can't do that.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Quest : 000750BA (EDID)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>030B73CC</ID>
+    <EDID>DialogueGenericHello</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>I'll trying.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Quest : 000750BA (EDID)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>030B73CB</ID>
+    <EDID>DialogueGenericHello</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>What do you want?</ORIGINAL>
+    <TRADUIT>Чего ты хочешь?</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Quest : 000750BA (EDID)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>030B44FF</ID>
+    <EDID>DialogueFollowerHellos</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>We heading out?</ORIGINAL>
+    <TRADUIT>Мы выступаем?</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Quest : 000750BA (EDID)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>030B4500</ID>
+    <EDID>DialogueFollowerHellos</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Ursa is ready to hunt. When we start?</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Quest : 000750BA (EDID)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>030B4501</ID>
+    <EDID>DialogueFollowerHellos</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Let's go. Ursa will cover your back.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Quest : 000750BA (EDID)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7D0</ID>
+    <EDID>DialogueFollowerHellos</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>The enemy is near.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Ursa (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>DIAL</GRUP>
+    <ID>0005C80C</ID>
+    <EDID>DialogueFollowerDismissTopic</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>It's time for us to part ways.</ORIGINAL>
+    <TRADUIT>Пора нам расстаться.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305C8FF</ID>
+    <EDID>DialogueFollowerDismissTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>If I need you again, you will find me here.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Quest : 000750BA (EDID)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>DIAL</GRUP>
+    <ID>00075083</ID>
+    <EDID>DialogueFollowerFollowTopic</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Follow me.</ORIGINAL>
+    <TRADUIT>Следуй за мной.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305C901</ID>
+    <EDID>DialogueFollowerFollowTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Mm-hm</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Ursa (mod)
+Quest : 000750BA (EDID)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>000ABCFB</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>My thanks. I feel... better.</ORIGINAL>
+    <TRADUIT>Спасибо. Мне уже... лучше.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>000ABCFC</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>I suppose you think you're better than me because you can do that?</ORIGINAL>
+    <TRADUIT>Ты, небось, считаешь, что ты лучше меня, потому что умеешь фокусы показывать?</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>EmotionType : Disgust</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>000ABCFD</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>I hope you're not expecting a thank you.</ORIGINAL>
+    <TRADUIT>Надеюсь, ты не ждешь благодарностей.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>EmotionType : Surprise</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>000ABCFE</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>A healing spell? Was that really necessary?</ORIGINAL>
+    <TRADUIT>Исцеляющие чары? Я что, так плохо выгляжу?</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>EmotionType : Puzzled</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>000ABCFF</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Huh. I feel better now.</ORIGINAL>
+    <TRADUIT>Хм. Мне уже лучше.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Comment (NAM2) : Surprised
+EmotionType : Surprise</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>000ABD00</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>My old bones don't hurt so much now.</ORIGINAL>
+    <TRADUIT>Мои старые кости уже не болят так сильно.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>EmotionType : Happy</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>000ABD01</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Healing magic? An Orc lets her wounds heal naturally...</ORIGINAL>
+    <TRADUIT>Исцеляющая магия? У орков все само заживает...</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>000ABD03</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Huh? What...oh! That felt nice.</ORIGINAL>
+    <TRADUIT>А? Что...а! Это приятно.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>EmotionType : Surprise</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>000ABD04</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>What...hey! That felt good.</ORIGINAL>
+    <TRADUIT>Что... а! Как хорошо.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>EmotionType : Surprise</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>000ABD05</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>No need to do that now.</ORIGINAL>
+    <TRADUIT>Зачем это делать сейчас?</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>000ABD09</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Suddenly I feel much better.</ORIGINAL>
+    <TRADUIT>Мне вдруг стало гораздо лучше.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>EmotionType : Surprise</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>000ABD0B</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>You heal away my scars and there's gonna be a problem...</ORIGINAL>
+    <TRADUIT>Не вздумай залечить мне шрамы - пожалеешь...</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>EmotionType : Surprise</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>000ABD0C</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>That put a spring in my step.</ORIGINAL>
+    <TRADUIT>Я куда живее себя чувствую.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>EmotionType : Happy</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>000ABD0D</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Hey! You trying to pull a fast one on me?</ORIGINAL>
+    <TRADUIT>Эй! Ты надо мной что, издеваешься?</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>000ABD0E</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Save it for the battlefield.</ORIGINAL>
+    <TRADUIT>Прибереги свой запал для битвы.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>EmotionType : Surprise</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>000ABD0F</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>I wasn't hurt, but that did make me feel better.</ORIGINAL>
+    <TRADUIT>Я была здорова, но теперь мне еще лучше.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>000ABD11</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>A healing spell? Are you a priest?</ORIGINAL>
+    <TRADUIT>Целительные чары? Ты что, из храма?</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>EmotionType : Surprise</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>000ABD19</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Don't go casting spells on a woman without asking her permission.</ORIGINAL>
+    <TRADUIT>Не смей накладывать на женщину чары без разрешения.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>EmotionType : Anger</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>000ABD1A</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Thanks!</ORIGINAL>
+    <TRADUIT>Спасибо!</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>EmotionType : Happy</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>000ABD1F</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Hmm. Feel a bit better now. Thanks.</ORIGINAL>
+    <TRADUIT>Хм. Теперь мне получше. Спасибо.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>EmotionType : Surprise</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>000ABD20</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Was that some sort of... healing spell?</ORIGINAL>
+    <TRADUIT>Это было что... целительные чары?</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>EmotionType : Surprise</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>000ABD22</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Thanks! Not sure it was necessary, though.</ORIGINAL>
+    <TRADUIT>Спасибо! Хотя я не думаю, что это было необходимо.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>EmotionType : Surprise</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>000ABD24</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Healing spells always leave me light-headed...</ORIGINAL>
+    <TRADUIT>У меня от целительских чар голова кружится...</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>EmotionType : Surprise</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>000ABD81</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Ah! What did you do? Stop that!</ORIGINAL>
+    <TRADUIT>Эй! Это что еще такое? Прекрати!</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Comment (NAM2) : Short scream of surprise.
+EmotionType : Fear</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>000ABD83</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Mmm. That felt nice.</ORIGINAL>
+    <TRADUIT>М-м. Как приятно.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Comment (NAM2) : purr of satisfaction.
+EmotionType : Happy</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>000ABDA8</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Ah! That felt refreshing.</ORIGINAL>
+    <TRADUIT>О-о! Освежает.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Comment (NAM2) : Sigh of satisfaction.
+EmotionType : Surprise</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>000ABDAA</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Wow! What was that? Do it again!</ORIGINAL>
+    <TRADUIT>Ого! Что это было? Покажи еще разок!</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>EmotionType : Surprise</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>000ABDAC</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Hey! My hangover is gone!</ORIGINAL>
+    <TRADUIT>Ого! У меня похмелье прошло!</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>EmotionType : Surprise</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>000ABDAD</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Ah! I feel like I just woke from a nap.</ORIGINAL>
+    <TRADUIT>Ух! Бодренький, будто выспался как следует.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Comment (NAM2) : Sigh of satisfaction
+EmotionType : Surprise</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7D1</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>My thanks.</ORIGINAL>
+    <TRADUIT>Вот спасибо.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>80</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Ursa (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7D2</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>That was kind of you.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Ursa (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7D3</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Thanks.</ORIGINAL>
+    <TRADUIT>Спасибо.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Slithice (mod)
+EmotionType : Happy</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7D4</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Gracious be.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Slithice (mod)
+EmotionType : Happy</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7D5</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Thanks.</ORIGINAL>
+    <TRADUIT>Спасибо.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Medusa (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7D6</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>My gratitude is yours.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Medusa (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7D7</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>You have my thanks.</ORIGINAL>
+    <TRADUIT>Благодарю тебя.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Medusa (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7D8</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Thank you so much.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Shendelzare (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7D9</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>I am grateful.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Shendelzare (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7DA</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Ooo, thanks.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Lina Inverse (mod)
+EmotionType : Happy</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7DB</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Oh, you're hot!</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Lina Inverse (mod)
+EmotionType : Happy</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7DC</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Thank you.</ORIGINAL>
+    <TRADUIT>Спасибо.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Lina Inverse (mod)
+EmotionType : Surprise</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7DD</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Thanks!</ORIGINAL>
+    <TRADUIT>Спасибо!</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Luna Moonfang (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7DE</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Moon's blessings.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Luna Moonfang (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7E0</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>I'm grateful.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Mortred (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7DF</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Many thanks.</ORIGINAL>
+    <TRADUIT>Спасибо большое.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Mortred (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7E1</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>With my thanks.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Mortred (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7E2</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>With gratitude.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Mortred (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7E3</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>My thanks.</ORIGINAL>
+    <TRADUIT>Вот спасибо.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>80</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Akasha (mod)
+EmotionType : Surprise</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7E4</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>I'm ever so grateful.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Akasha (mod)
+EmotionType : Surprise</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7E5</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Hey, thanks!</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Rylai Crestfall (mod)
+EmotionType : Happy</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7E6</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Very cool of you!</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Rylai Crestfall (mod)
+EmotionType : Happy</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7E7</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>My thanks!</ORIGINAL>
+    <TRADUIT>Вот спасибо!</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Traxex (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7E8</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>May the Drow keep you safe.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Traxex (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7E9</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Thanks!</ORIGINAL>
+    <TRADUIT>Спасибо!</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Davion (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7EA</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>With thanks.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Davion (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7EB</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>My gratitude.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Davion (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7EC</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>My thanks to thee.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Magina (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7ED</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Thank you.</ORIGINAL>
+    <TRADUIT>Спасибо.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Magina (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7EE</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>My thanks.</ORIGINAL>
+    <TRADUIT>Вот спасибо.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>80</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Magina (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7EF</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Axe says thank you.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Mogul Khan (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7F0</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Axe is grateful.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Mogul Khan (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7F1</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Thanks.</ORIGINAL>
+    <TRADUIT>Спасибо.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Chaos Knight (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7F2</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>My thanks.</ORIGINAL>
+    <TRADUIT>Вот спасибо.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>80</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Chaos Knight (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7F3</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>I will not forget this.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Yurnero (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7F4</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>My thanks.</ORIGINAL>
+    <TRADUIT>Вот спасибо.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>80</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Yurnero (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7F5</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Why thank you.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Kael (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7F6</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Grace to you.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Kael (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7F7</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Thanks.</ORIGINAL>
+    <TRADUIT>Спасибо.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Ezalor (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7F8</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Thank you.</ORIGINAL>
+    <TRADUIT>Спасибо.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Ezalor (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7F9</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Thanks to ye!</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Admiral Kunkka (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7FA</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Well hello!</ORIGINAL>
+    <TRADUIT>Ну привет !</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>80</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Admiral Kunkka (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7FB</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>You're a trusty mate!</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Admiral Kunkka (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7FC</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>My thanks</ORIGINAL>
+    <TRADUIT>Вот спасибо</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>80</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Tresdin (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7FD</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>The Legion is grateful.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Tresdin (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7FE</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Your loyalty will be rewarded.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Tresdin (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F7FF</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Our thanks.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Mirana Nightshade (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F800</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>My pet thanks you.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Mirana Nightshade (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F801</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Thanks.</ORIGINAL>
+    <TRADUIT>Спасибо.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Lanaya (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F802</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>My thanks.</ORIGINAL>
+    <TRADUIT>Вот спасибо.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>80</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Lanaya (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F803</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>It'll be our little secret.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Lanaya (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F804</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>I am in your debt.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Lyralei Windrunner (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F805</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>I'll return the favor.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Lyralei Windrunner (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F806</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Thank you.</ORIGINAL>
+    <TRADUIT>Спасибо.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Lyralei Windrunner (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F807</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>God bless.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Zeus (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F808</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Zeus be with you.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Zeus (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F809</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Hmhmhmhmhmhm… Zeus bless.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Zeus (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F80A</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Thanks!</ORIGINAL>
+    <TRADUIT>Спасибо!</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Purist Thunderwrath (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F80B</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>I am in your debt.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Purist Thunderwrath (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F80C</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Thank you.</ORIGINAL>
+    <TRADUIT>Спасибо.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Nortrom (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F80D</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Thank you. I am speechless.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Nortrom (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F80E</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Thanks!</ORIGINAL>
+    <TRADUIT>Спасибо!</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Sylla (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F80F</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>My unending gratitude.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Sylla (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F810</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Glorious thanks.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Raijin Thunderkeg (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F811</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>My eternal gratitude.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Raijin Thunderkeg (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305F812</ID>
+    <EDID>WICastMagicNonHostileSpellHealingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>My thanks.</ORIGINAL>
+    <TRADUIT>Вот спасибо.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>80</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Demnok Lannik (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>DIAL</GRUP>
+    <ID>000B0EE6</ID>
+    <EDID>DialogueFavorGenericFollowBranchTopic</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Follow me. I need your help.</ORIGINAL>
+    <TRADUIT>Следуй за мной. Мне нужна твоя помощь.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305C900</ID>
+    <EDID>DialogueFavorGenericFollowBranchTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Sure my friend. Let them see our teeth.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Ursa (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0305C900</ID>
+    <EDID>DialogueFavorGenericFollowBranchTopic</EDID>
+    <CHAMP>RNAM</CHAMP>
+    <ORIGINAL>Ursa, can you follow me? I really need your help.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>030B1633</ID>
+    <EDID>DialogueFavorGenericFollowBranchTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Sorry my friend, but you already have someone, who isn't bear.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Ursa (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>030B1633</ID>
+    <EDID>DialogueFavorGenericFollowBranchTopic</EDID>
+    <CHAMP>RNAM</CHAMP>
+    <ORIGINAL>Ursa, can you follow me? I really need your help.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>DIAL</GRUP>
+    <ID>000E3A35</ID>
+    <EDID>OffersTrainingTopic</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>I'd like training in Alchemy.</ORIGINAL>
+    <TRADUIT>Я хочу поучиться алхимии.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>03048A9D</ID>
+    <EDID>OffersTrainingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Yes.</ORIGINAL>
+    <TRADUIT>Да.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Lanaya (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>03048A9D</ID>
+    <EDID>OffersTrainingTopic</EDID>
+    <CHAMP>RNAM</CHAMP>
+    <ORIGINAL>Lanaya, can you teach me Alchemy? Maybe you know something about that...</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0303E37F</ID>
+    <EDID>OffersTrainingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Oh yeah.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Lina Inverse (mod)
+EmotionType : Happy</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0303E37F</ID>
+    <EDID>OffersTrainingTopic</EDID>
+    <CHAMP>RNAM</CHAMP>
+    <ORIGINAL>Lina, could you teach me Destruction Magic? I guess Rylai knows less than you...</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>03045F81</ID>
+    <EDID>OffersTrainingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Wanna play with fire?</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Lina Inverse (mod)
+EmotionType : Surprise</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>03045F81</ID>
+    <EDID>OffersTrainingTopic</EDID>
+    <CHAMP>RNAM</CHAMP>
+    <ORIGINAL>Lina, could you teach me Destruction Magic? I guess Rylai knows less than you...</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0303D352</ID>
+    <EDID>OffersTrainingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Let's go! Is it cold in here or is it just me?</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Rylai Crestfall (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0303D352</ID>
+    <EDID>OffersTrainingTopic</EDID>
+    <CHAMP>RNAM</CHAMP>
+    <ORIGINAL>Rylai, could you teach me Destruction Magic? Because Lina is a ginger bitch...</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>03045F82</ID>
+    <EDID>OffersTrainingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>I've been waiting for this… I'm ready!</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Rylai Crestfall (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>03045F82</ID>
+    <EDID>OffersTrainingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>(meditating) My temperature's dropping. I feel colder already! (end meditating) Brrr, that's nice.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>2</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Rylai Crestfall (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>03045F82</ID>
+    <EDID>OffersTrainingTopic</EDID>
+    <CHAMP>RNAM</CHAMP>
+    <ORIGINAL>Rylai, could you teach me Destruction Magic? Because Lina is a ginger bitch...</ORIGINAL>
+    <TRADUIT />
+    <INDEX>2</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>03048A9E</ID>
+    <EDID>OffersTrainingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Absolutely.</ORIGINAL>
+    <TRADUIT>Несомненно.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Tresdin (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>03048A9E</ID>
+    <EDID>OffersTrainingTopic</EDID>
+    <CHAMP>RNAM</CHAMP>
+    <ORIGINAL>Tresdin, can you train me to better use Heavy Armor?</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>03043F34</ID>
+    <EDID>OffersTrainingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Of course.</ORIGINAL>
+    <TRADUIT>Конечно.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Lyralei Windrunner (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>03043F34</ID>
+    <EDID>OffersTrainingTopic</EDID>
+    <CHAMP>RNAM</CHAMP>
+    <ORIGINAL>Lyralei, I see you can do well with a bow, could you teach me Archery?</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>03048A9F</ID>
+    <EDID>OffersTrainingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>I thought you'd never ask.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Traxex (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>03048A9F</ID>
+    <EDID>OffersTrainingTopic</EDID>
+    <CHAMP>RNAM</CHAMP>
+    <ORIGINAL>Traxex, could you teach me Archery? Maybe you can better, than Lyralei...</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>03047FD6</ID>
+    <EDID>OffersTrainingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>As you wish.</ORIGINAL>
+    <TRADUIT>Как скажешь.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Yurnero (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>03047FD6</ID>
+    <EDID>OffersTrainingTopic</EDID>
+    <CHAMP>RNAM</CHAMP>
+    <ORIGINAL>Yurnero, can you teach me how to handle a sword?</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>03049003</ID>
+    <EDID>OffersTrainingTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Cut and run!</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Mogul Khan (mod)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>03049003</ID>
+    <EDID>OffersTrainingTopic</EDID>
+    <CHAMP>RNAM</CHAMP>
+    <ORIGINAL>Axe, can you train me to better use battleaxes? Maybe you know some tactic...</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>QUST</GRUP>
+    <ID>000750BA</ID>
+    <EDID>DialogueFollower</EDID>
+    <CHAMP>NNAM</CHAMP>
+    <ORIGINAL>&lt;Alias=Follower&gt; is waiting for you</ORIGINAL>
+    <TRADUIT>&lt;Alias=Follower&gt; ждет меня</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>QUST</GRUP>
+    <ID>000750BA</ID>
+    <EDID>DialogueFollower</EDID>
+    <CHAMP>NNAM</CHAMP>
+    <ORIGINAL>&lt;Alias=Animal&gt; is waiting for you</ORIGINAL>
+    <TRADUIT>&lt;Alias=Animal&gt; ждет меня</TRADUIT>
+    <INDEX>2</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>PERK</GRUP>
+    <ID>030247EE</ID>
+    <EDID>DoS_ChaosKnightPhantasmPerk</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Twin Souls</ORIGINAL>
+    <TRADUIT>Парные души</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>PERK</GRUP>
+    <ID>030247EE</ID>
+    <EDID>DoS_ChaosKnightPhantasmPerk</EDID>
+    <CHAMP>DESC</CHAMP>
+    <ORIGINAL>You can have two atronachs or reanimated zombies.</ORIGINAL>
+    <TRADUIT>Вы можете вызвать двух атронахов или поднять двух зомби.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>PERK</GRUP>
+    <ID>0304E652</ID>
+    <EDID>DoS_NagaIllusionArmor</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Dragonhide</ORIGINAL>
+    <TRADUIT>Драконья шкура</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>PERK</GRUP>
+    <ID>03024D51</ID>
+    <EDID>DoS_CKIllusionArmor</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Dragonhide</ORIGINAL>
+    <TRADUIT>Драконья шкура</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>LCTN</GRUP>
+    <ID>0001F7CB</ID>
+    <EDID>OldHroldanInnLocation</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Old Hroldan Inn</ORIGINAL>
+    <TRADUIT>Таверна "Старый Хролдан"</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>LCTN</GRUP>
+    <ID>0001CB8C</ID>
+    <EDID>RiverwoodSleepingGiantInnLocation</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Sleeping Giant Inn</ORIGINAL>
+    <TRADUIT>Таверна "Спящий великан"</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>LCTN</GRUP>
+    <ID>0001F883</ID>
+    <EDID>RoriksteadFrostfruitInnLocation</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Frostfruit Inn</ORIGINAL>
+    <TRADUIT>Таверна "Мороженый фрукт"</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>LCTN</GRUP>
+    <ID>0001F86D</ID>
+    <EDID>WhiterunBanneredMareLocation</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>The Bannered Mare</ORIGINAL>
+    <TRADUIT>"Гарцующая кобыла"</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>LCTN</GRUP>
+    <ID>00018E3E</ID>
+    <EDID>HalfmoonMillLocation</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Half-moon Mill</ORIGINAL>
+    <TRADUIT>Полулунная лесопилка</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>LCTN</GRUP>
+    <ID>0001EB7C</ID>
+    <EDID>WinterholdTheFrozenHearthLocation</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>The Frozen Hearth</ORIGINAL>
+    <TRADUIT>"Замерзший очаг"</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>LCTN</GRUP>
+    <ID>0001F872</ID>
+    <EDID>WhiterunDrunkenHuntsmanLocation</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Drunken Huntsman</ORIGINAL>
+    <TRADUIT>"Пьяный охотник"</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>LCTN</GRUP>
+    <ID>0001F87D</ID>
+    <EDID>WhiterunTempleofKynarethLocation</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Temple of Kynareth</ORIGINAL>
+    <TRADUIT>Храм Кинарет</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>LCTN</GRUP>
+    <ID>000200A5</ID>
+    <EDID>SolitudeWinkingSkeeverLocation</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>The Winking Skeever</ORIGINAL>
+    <TRADUIT>"Смеющаяся крыса"</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>LCTN</GRUP>
+    <ID>000200BB</ID>
+    <EDID>FalkreathCemeteryLocation</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Falkreath Cemetery</ORIGINAL>
+    <TRADUIT>Фолкрит - Кладбище</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>LCTN</GRUP>
+    <ID>000226AA</ID>
+    <EDID>IvarsteadVilemyrInnLocation</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Ivarstead Vilemyr Inn</ORIGINAL>
+    <TRADUIT>Айварстед - Таверна "Вайлмир"</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>SHOU</GRUP>
+    <ID>0303F3B5</ID>
+    <EDID>AADOTA2_LinaDragonSlave</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Fire Breath</ORIGINAL>
+    <TRADUIT>Огненное дыхание</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>SHOU</GRUP>
+    <ID>030531D6</ID>
+    <EDID>AADOTA2_MedusaStoneGazeShout</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Stone Gaze</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>SHOU</GRUP>
+    <ID>030531D6</ID>
+    <EDID>AADOTA2_MedusaStoneGazeShout</EDID>
+    <CHAMP>DESC</CHAMP>
+    <ORIGINAL>Any enemy units looking at Medusa will have their movement and attack speed slowed. If 2 seconds of total time is accumulated looking at Medusa while Stone Gaze is active, that unit will turn to stone.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>SHOU</GRUP>
+    <ID>030439D0</ID>
+    <EDID>AADOTA2_WindrunShout</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Windrun</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>SHOU</GRUP>
+    <ID>030439D0</ID>
+    <EDID>AADOTA2_WindrunShout</EDID>
+    <CHAMP>DESC</CHAMP>
+    <ORIGINAL>Increases movement speed and adds evasion from all physical attacks, while slowing movement of nearby enemies.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>SHOU</GRUP>
+    <ID>03043463</ID>
+    <EDID>AADOTA2_VengefulSpiritShout</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Wave of Terror</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>SHOU</GRUP>
+    <ID>03043463</ID>
+    <EDID>AADOTA2_VengefulSpiritShout</EDID>
+    <CHAMP>DESC</CHAMP>
+    <ORIGINAL>Vengeful Spirit lets loose a wicked cry, weakening the armor of enemies and giving vision of the path ahead.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>SHOU</GRUP>
+    <ID>0304EBBE</ID>
+    <EDID>AADOTA2_NagaSotSShout</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Song of the Siren</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>SHOU</GRUP>
+    <ID>0304EBBE</ID>
+    <EDID>AADOTA2_NagaSotSShout</EDID>
+    <CHAMP>DESC</CHAMP>
+    <ORIGINAL>All enemies in range of the Naga Siren are put into a magical stasis where they cannot act or be attacked.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>SHOU</GRUP>
+    <ID>0304EBBD</ID>
+    <EDID>AADOTA2_NagaMirrorShout</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Mirror Image</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>SHOU</GRUP>
+    <ID>0304EBBD</ID>
+    <EDID>AADOTA2_NagaMirrorShout</EDID>
+    <CHAMP>DESC</CHAMP>
+    <ORIGINAL>Creates three images of Naga Siren under her control.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>SHOU</GRUP>
+    <ID>0303A2CE</ID>
+    <EDID>AADOTA2_QoPUnrelentingForceShout</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Scream Of Pain</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>SHOU</GRUP>
+    <ID>0303A2CE</ID>
+    <EDID>AADOTA2_QoPUnrelentingForceShout</EDID>
+    <CHAMP>DESC</CHAMP>
+    <ORIGINAL>Your Voice is raw power, pushing aside anything - or anyone - who stands in your path.</ORIGINAL>
+    <TRADUIT>Ваш Голос - средоточие силы, на своем пути он отталкивает все и вся.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>CLFM</GRUP>
+    <ID>030082A2</ID>
+    <EDID>HairColorWR</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Steel Grey</ORIGINAL>
+    <TRADUIT>Стальной</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>CLFM</GRUP>
+    <ID>0300324B</ID>
+    <EDID>HairColorPA</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Steel Grey</ORIGINAL>
+    <TRADUIT>Стальной</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>CLFM</GRUP>
+    <ID>030058E3</ID>
+    <EDID>HairColorLina</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Steel Grey</ORIGINAL>
+    <TRADUIT>Стальной</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>CLFM</GRUP>
+    <ID>03004DF1</ID>
+    <EDID>HairColorCM</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Steel Grey</ORIGINAL>
+    <TRADUIT>Стальной</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>CLFM</GRUP>
+    <ID>030152A3</ID>
+    <EDID>HairColorOmniknight</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Bright Blond</ORIGINAL>
+    <TRADUIT>Золотой</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>CLFM</GRUP>
+    <ID>0301CB92</ID>
+    <EDID>HairColorAntimage</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Platinum Blond</ORIGINAL>
+    <TRADUIT>Платиновый</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>CLFM</GRUP>
+    <ID>03003D07</ID>
+    <EDID>HairColorLanaya</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Steel Grey</ORIGINAL>
+    <TRADUIT>Стальной</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>SCPT</GRUP>
+    <ID>11</ID>
+    <EDID>FNISVersionGenerated</EDID>
+    <CHAMP>SCPT</CHAMP>
+    <ORIGINAL>V06.02.00.0</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Version = "V06.02.00.0"</COMMENTAIRE>
+    <ICON>11</ICON>
+  </ESP>
+</DocumentElement>

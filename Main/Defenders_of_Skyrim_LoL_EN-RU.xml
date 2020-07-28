@@ -1,0 +1,412 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocumentElement>
+  <ESP>
+    <GRUP>TES4</GRUP>
+    <ID>00000000</ID>
+    <EDID />
+    <CHAMP>CNAM</CHAMP>
+    <ORIGINAL>Long-Sighted Films</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>TES4</GRUP>
+    <ID>00000000</ID>
+    <EDID />
+    <CHAMP>SNAM</CHAMP>
+    <ORIGINAL>Adds a 12 followers from League of Legends universe.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>HDPT</GRUP>
+    <ID>04017E5E</ID>
+    <EDID>HairFemaleLoLFiora</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>HairLoLFiora</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>HDPT</GRUP>
+    <ID>04023984</ID>
+    <EDID>HairFemaleLoLIrelia</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>HairLoLIrelia</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>HDPT</GRUP>
+    <ID>04009463</ID>
+    <EDID>HairFemaleLoLAhri</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>HairLoLAhri</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>HDPT</GRUP>
+    <ID>04029725</ID>
+    <EDID>HairFemaleLoLKatarina</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>HairLoLKatarina</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>HDPT</GRUP>
+    <ID>0402F4C2</ID>
+    <EDID>HairFemaleLoLLeona</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>HairLoLLeona</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>HDPT</GRUP>
+    <ID>04032393</ID>
+    <EDID>HairFemaleLoLMissFortune</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>HairLoLMissFortune</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>0403AFFD</ID>
+    <EDID>DoS_LoLAsheGauntlets</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Ashe Gauntlets [Default]</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Light Hand
+</COMMENTAIRE>
+    <ICON>701</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>0403AFFA</ID>
+    <EDID>DoS_LoLAsheDress</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Ashe Dress [Default]</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Unarmored
+</COMMENTAIRE>
+    <ICON>300</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>0403DEC8</ID>
+    <EDID>DoS_LoLAsheBoots</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Ashe Boots [Default]</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Light Boot
+</COMMENTAIRE>
+    <ICON>601</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>04043C5C</ID>
+    <EDID>DoS_LoLAsheHood</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Ashe Hood [Default]</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Light Helmet
+</COMMENTAIRE>
+    <ICON>501</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>04046B27</ID>
+    <EDID>DoS_LoLAsheUnderwear</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Ashe Underwear [Default]</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Unarmored
+</COMMENTAIRE>
+    <ICON>300</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>04055575</ID>
+    <EDID>DoS_LoLAsheBow</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Ashe Bow [Default]</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Bow
+</COMMENTAIRE>
+    <ICON>1000</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>0400F1FD</ID>
+    <EDID>DoS_LOL_Diana</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Diana</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Imperial - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>0402F4C6</ID>
+    <EDID>DoS_LOL_Lux</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Lux</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Breton - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>04035260</ID>
+    <EDID>DoS_LOL_Nidalee</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Nidalee</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Redguard - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>0400C32E</ID>
+    <EDID>DoS_LOL_Caitlyn</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Caitlyn</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Imperial - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>0402C5F2</ID>
+    <EDID>DoS_LOL_LeBlanc</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>LeBlanc</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Imperial - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>0400945F</ID>
+    <EDID>DoS_LOL_Ahri</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Ahri</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Breton - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>04029724</ID>
+    <EDID>DoS_LOL_Katarina</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Katarina</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Imperial - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>04023988</ID>
+    <EDID>DoS_LOL_Irelia</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Irelia</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Nord - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>04032395</ID>
+    <EDID>DoS_LOL_MissFortune</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Sarah Fortune</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Imperial - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>040120CA</ID>
+    <EDID>DoS_LOL_Fiora</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Fiora</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Imperial - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>0402F4C4</ID>
+    <EDID>DoS_LOL_Leona</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Leona</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Imperial - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>040036C9</ID>
+    <EDID>DoS_LOL_Ashe</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Ashe</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Imperial - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>04026853</ID>
+    <EDID>DoS_LOL_Karma</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Karma</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Redguard - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WRLD</GRUP>
+    <ID>0000003C</ID>
+    <EDID>Tamriel</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Skyrim</ORIGINAL>
+    <TRADUIT>Скайрим</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WRLD</GRUP>
+    <ID>0001691D</ID>
+    <EDID>WindhelmWorld</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Windhelm</ORIGINAL>
+    <TRADUIT>Виндхельм</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>LCTN</GRUP>
+    <ID>000F52B0</ID>
+    <EDID>HuntersRestLocation</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Hunter's Rest</ORIGINAL>
+    <TRADUIT>Охотничий привал</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>LCTN</GRUP>
+    <ID>00018A57</ID>
+    <EDID>WindhelmLocation</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Windhelm</ORIGINAL>
+    <TRADUIT>Виндхельм</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+</DocumentElement>

@@ -20,6 +20,8 @@ In repository folder you can see, that each mod comes in own folder:
 | Artifacts | Defenders of Skyrim - Artifacts | Defenders_of_Skyrim_Artifacts_EN-*lang*.xml |
 | Wardrobe | Defenders of Skyrim - Wardrobe | Defenders_of_Skyrim_Wardrobe_EN-*lang*.xml |
 
+In *Main* folder also you can find files, which have suffix **Followers**, etc. - it's also goes to main mod, just now for more bug-free development it's separated.
+
 *lang* - destination language (RU, DE, etc.)
 
 ### Translation

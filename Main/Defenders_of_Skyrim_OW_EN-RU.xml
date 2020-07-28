@@ -1,0 +1,540 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocumentElement>
+  <ESP>
+    <GRUP>TES4</GRUP>
+    <ID>00000000</ID>
+    <EDID />
+    <CHAMP>CNAM</CHAMP>
+    <ORIGINAL>Long-Sighted Films</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>TES4</GRUP>
+    <ID>00000000</ID>
+    <EDID />
+    <CHAMP>SNAM</CHAMP>
+    <ORIGINAL>DLC for Defenders of Skyrim. Adds characters from Overwatch.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>HDPT</GRUP>
+    <ID>030365DA</ID>
+    <EDID>DoS_OW_BrigitteHairLine</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>HairLineFemaleNord21</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>HDPT</GRUP>
+    <ID>030365D9</ID>
+    <EDID>DoS_OW_BrigitteHair</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>DoS_OW_BrigitteHair</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>0300A46A</ID>
+    <EDID>DoS_OW_Mercy_Stockings</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Mercy Stockings</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Unarmored Boot
+</COMMENTAIRE>
+    <ICON>600</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>0300E536</ID>
+    <EDID>DoS_OW_Mercy_Underwear</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Mercy Underwear</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Unarmored
+</COMMENTAIRE>
+    <ICON>300</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ARMO</GRUP>
+    <ID>03003DE4</ID>
+    <EDID>DoS_OW_Mei_Glasses</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Mei Glasses</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>030073D0</ID>
+    <EDID>DoS_OW_Pharah</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Pharah Amari</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Redguard - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>030073D0</ID>
+    <EDID>DoS_OW_Pharah</EDID>
+    <CHAMP>SHRT</CHAMP>
+    <ORIGINAL>Pharah</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Redguard - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>03007E99</ID>
+    <EDID>DoS_OW_Moira</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Moira</ORIGINAL>
+    <TRADUIT>Мойра</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Nord - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>03008400</ID>
+    <EDID>DoS_OW_Ana</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Ana Amari</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Redguard - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>03008400</ID>
+    <EDID>DoS_OW_Ana</EDID>
+    <CHAMP>SHRT</CHAMP>
+    <ORIGINAL>Ana</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Redguard - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>0300896A</ID>
+    <EDID>DoS_OW_Zarya</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Zarya</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Nord - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>03009434</ID>
+    <EDID>DoS_OW_Sombra</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Sombra</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Redguard - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>03000D62</ID>
+    <EDID>DoS_OW_Widowmaker</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Amelie</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Nord - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>030022F4</ID>
+    <EDID>DoS_OW_Mei</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Mei</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Nord - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>03004348</ID>
+    <EDID>DoS_OW_Tracer</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Tracer</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Nord - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>0301B22B</ID>
+    <EDID>DoS_OW_Reinhardt</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Vilhelm Reinhardt</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Nord - Мужчина</COMMENTAIRE>
+    <ICON>1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>0301B22B</ID>
+    <EDID>DoS_OW_Reinhardt</EDID>
+    <CHAMP>SHRT</CHAMP>
+    <ORIGINAL>Reinhardt</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Nord - Мужчина</COMMENTAIRE>
+    <ICON>1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>0301D9C8</ID>
+    <EDID>DoS_OW_Mccree</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Jesse McCree</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Imperial - Мужчина</COMMENTAIRE>
+    <ICON>1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>0301D9C8</ID>
+    <EDID>DoS_OW_Mccree</EDID>
+    <CHAMP>SHRT</CHAMP>
+    <ORIGINAL>McCree</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Imperial - Мужчина</COMMENTAIRE>
+    <ICON>1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>03004E11</ID>
+    <EDID>DoS_OW_DVa</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>D.Va</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Nord - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>03005E3D</ID>
+    <EDID>DoS_OW_Symmetra</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Symmetra</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Redguard - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>03006E6B</ID>
+    <EDID>DoS_OW_Mercy</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Angela</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Nord - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>030365D7</ID>
+    <EDID>DoS_OW_Brigitte</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Brigitte Lindholm</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Nord - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>030365D7</ID>
+    <EDID>DoS_OW_Brigitte</EDID>
+    <CHAMP>SHRT</CHAMP>
+    <ORIGINAL>Brigitte</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Nord - Женщина</COMMENTAIRE>
+    <ICON>2</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>CELL</GRUP>
+    <ID>00013A7F</ID>
+    <EDID>DawnstarWindpeakInn</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Windpeak Inn</ORIGINAL>
+    <TRADUIT>Таверна "Пик ветров"</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>CELL</GRUP>
+    <ID>00016BDF</ID>
+    <EDID>RiftenBeeandBarb</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>The Bee and Barb</ORIGINAL>
+    <TRADUIT>"Пчела и жало"</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>CELL</GRUP>
+    <ID>00016BD7</ID>
+    <EDID>RiftenTempleofMara</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Temple of Mara</ORIGINAL>
+    <TRADUIT>Храм Мары</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>CELL</GRUP>
+    <ID>00016DF3</ID>
+    <EDID>MarkarthTempleofDibella</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Temple of Dibella</ORIGINAL>
+    <TRADUIT>Храм Дибеллы</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>CELL</GRUP>
+    <ID>00016A0C</ID>
+    <EDID>SolitudeBardsCollege</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Bards College</ORIGINAL>
+    <TRADUIT>Коллегия бардов</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>CELL</GRUP>
+    <ID>00016DFE</ID>
+    <EDID>MarkarthSilverBloodInn</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Silver-Blood Inn</ORIGINAL>
+    <TRADUIT>Таверна "Серебряная Кровь"</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>CELL</GRUP>
+    <ID>00016BCF</ID>
+    <EDID>RiftenRaggedFlagon</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>The Ragged Flagon</ORIGINAL>
+    <TRADUIT>"Буйная фляга"</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>CELL</GRUP>
+    <ID>0003A184</ID>
+    <EDID>FalkreathDeadMansDrink</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Dead Man's Drink</ORIGINAL>
+    <TRADUIT>"Мертвецкий мед"</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>CELL</GRUP>
+    <ID>00016A04</ID>
+    <EDID>SolitudeBluePalace</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Blue Palace</ORIGINAL>
+    <TRADUIT>Синий дворец</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>CELL</GRUP>
+    <ID>000138CE</ID>
+    <EDID>MorthalMoorsideInn</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Moorside Inn</ORIGINAL>
+    <TRADUIT>Таверна "Верески"</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WRLD</GRUP>
+    <ID>0000003C</ID>
+    <EDID>Tamriel</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Skyrim</ORIGINAL>
+    <TRADUIT>Скайрим</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>DIAL</GRUP>
+    <ID>00075083</ID>
+    <EDID>DialogueFollowerFollowTopic</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Follow me.</ORIGINAL>
+    <TRADUIT>Следуй за мной.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>000E36DB</ID>
+    <EDID>DialogueFollowerFollowTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>I'm ready. Let's go.</ORIGINAL>
+    <TRADUIT>Я готова. Пошли.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Mjoll the Lioness (file)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>03018A90</ID>
+    <EDID>DialogueFollowerFollowTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>I'm ready. Let's go.</ORIGINAL>
+    <TRADUIT>Я готова. Пошли.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : Mjoll the Lioness (file)
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>LCTN</GRUP>
+    <ID>0002247E</ID>
+    <EDID>RiftenBeeandBarbLocation</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Bee and Barb</ORIGINAL>
+    <TRADUIT>"Пчела и жало"</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+</DocumentElement>

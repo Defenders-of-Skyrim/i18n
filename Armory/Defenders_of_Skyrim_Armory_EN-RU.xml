@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocumentElement>
+  <ESP>
+    <GRUP>TES4</GRUP>
+    <ID>00000000</ID>
+    <EDID />
+    <CHAMP>CNAM</CHAMP>
+    <ORIGINAL>Long-Sighted Films</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>TES4</GRUP>
+    <ID>00000000</ID>
+    <EDID />
+    <CHAMP>SNAM</CHAMP>
+    <ORIGINAL>Standalone part of Defenders of Skyrim. Adds new weapons, based on DOTA2 universe.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ENCH</GRUP>
+    <ID>020048A7</ID>
+    <EDID>DoSArmory_PAArcanaEnchWeapon</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Fire Damage</ORIGINAL>
+    <TRADUIT>Урон огнем</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>CONT</GRUP>
+    <ID>02000D64</ID>
+    <EDID>DoSArmoryMerchantChest</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Chest</ORIGINAL>
+    <TRADUIT>Сундук</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>24</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>02004E0C</ID>
+    <EDID>DoSArmory_AxeDefaultAxe</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Mogul Khan War Axe</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>BattleAxe
+</COMMENTAIRE>
+    <ICON>1006</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>020058D6</ID>
+    <EDID>DoSArmory_CMDefaultStaff</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Crystal Maiden Staff</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Staff
+</COMMENTAIRE>
+    <ICON>1005</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>02005E3A</ID>
+    <EDID>DoSArmory_PudgeDefaultHook</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Pudge Meat Hook</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>WarAxe
+</COMMENTAIRE>
+    <ICON>1007</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>020063A0</ID>
+    <EDID>DoSArmory_PudgeDefaultOffhand</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Pudge Cleaver</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>WarAxe
+</COMMENTAIRE>
+    <ICON>1007</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>0200182B</ID>
+    <EDID>DoSArmory_JuggernautDefaultSword</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Juggernaut Katana</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Great Sword
+</COMMENTAIRE>
+    <ICON>1004</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>0200792F</ID>
+    <EDID>DoSArmory_DKSwordDefault</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Wyrmblade</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Sword
+</COMMENTAIRE>
+    <ICON>1003</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>020022F1</ID>
+    <EDID>DoSArmory_QoPSwordDefault</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Queen of Pain Sword</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Sword
+</COMMENTAIRE>
+    <ICON>1003</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>02007E92</ID>
+    <EDID>DoSArmory_SvenDefaultSword</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Outcast Blade</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Great Sword
+</COMMENTAIRE>
+    <ICON>1004</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>02002DB9</ID>
+    <EDID>DoSArmory_OmniknightDefHammer</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Omniknight Hammer</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>WarHammer
+</COMMENTAIRE>
+    <ICON>1008</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>02002DB9</ID>
+    <EDID>DoSArmory_OmniknightDefHammer</EDID>
+    <CHAMP>DESC</CHAMP>
+    <ORIGINAL>Especially effective against undead.</ORIGINAL>
+    <TRADUIT>Особенно эффективен против нежити.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>WarHammer
+</COMMENTAIRE>
+    <ICON>1008</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>020083F9</ID>
+    <EDID>DoSArmory_LCDefaultSword</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Legion Commander Sword</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Great Sword
+</COMMENTAIRE>
+    <ICON>1004</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>02002DBA</ID>
+    <EDID>DoSArmory_OmniknightDefHammerWorn</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Damaged Omniknight Hammer</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>WarHammer
+</COMMENTAIRE>
+    <ICON>1008</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>02004343</ID>
+    <EDID>DoSArmory_PAArcanaSword</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Manifold Paradox</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Sword
+</COMMENTAIRE>
+    <ICON>1003</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>0200895D</ID>
+    <EDID>DoSArmory_WRBowDefault</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Windranger Bow</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Bow
+</COMMENTAIRE>
+    <ICON>1000</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>02000D62</ID>
+    <EDID>DoSArmory_Trader</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Tervendos Rarram</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>Dark Elf - Мужчина</COMMENTAIRE>
+    <ICON>1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>CELL</GRUP>
+    <ID>0001DB4E</ID>
+    <EDID>WhiterunWarmaidens</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Warmaiden's</ORIGINAL>
+    <TRADUIT>"Дом воительницы"</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>LCTN</GRUP>
+    <ID>0001F86A</ID>
+    <EDID>WhiterunWarmaidensLocation</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Warmaiden's</ORIGINAL>
+    <TRADUIT>"Дом воительницы"</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+</DocumentElement>
