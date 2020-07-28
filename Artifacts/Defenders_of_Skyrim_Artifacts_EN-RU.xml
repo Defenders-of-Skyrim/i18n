@@ -1,0 +1,370 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocumentElement>
+  <ESP>
+    <GRUP>TES4</GRUP>
+    <ID>00000000</ID>
+    <EDID />
+    <CHAMP>CNAM</CHAMP>
+    <ORIGINAL>Long-Sighted Films</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>TES4</GRUP>
+    <ID>00000000</ID>
+    <EDID />
+    <CHAMP>SNAM</CHAMP>
+    <ORIGINAL>Adds an artifacts from DOTA 2 universe.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>MGEF</GRUP>
+    <ID>010022FF</ID>
+    <EDID>DoS_Artifacts_Desolator1Effect</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Corruption</ORIGINAL>
+    <TRADUIT>Порча</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>25</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>MGEF</GRUP>
+    <ID>010022FF</ID>
+    <EDID>DoS_Artifacts_Desolator1Effect</EDID>
+    <CHAMP>DNAM</CHAMP>
+    <ORIGINAL>Your attacks reduce the target's armor by &lt;mag&gt; for &lt;dur&gt; seconds.</ORIGINAL>
+    <TRADUIT>Ваши атаки уменьшают броню цели на &lt;mag&gt;, действует &lt;dur&gt; секунд.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>24</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ENCH</GRUP>
+    <ID>010022FD</ID>
+    <EDID>DoS_Artifacts_Desolator1Ench</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Corruption</ORIGINAL>
+    <TRADUIT>Порча</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>22</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ENCH</GRUP>
+    <ID>01002300</ID>
+    <EDID>DoS_Artifacts_Desolator2Ench</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Corruption</ORIGINAL>
+    <TRADUIT>Порча</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>23</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>CONT</GRUP>
+    <ID>01000D65</ID>
+    <EDID>DoS_Artifacts_TraderChest</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Chest</ORIGINAL>
+    <TRADUIT>Сундук</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>21</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>24</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>01000D62</ID>
+    <EDID>DoS_Artifacts_Crystalys</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Crystalys</ORIGINAL>
+    <TRADUIT>Кристалис</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>10</IDSTEXTE>
+    <COMMENTAIRE>Sword
+</COMMENTAIRE>
+    <ICON>1003</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>01000D62</ID>
+    <EDID>DoS_Artifacts_Crystalys</EDID>
+    <CHAMP>DESC</CHAMP>
+    <ORIGINAL>A blade forged from rare crystals, it seeks weak points in enemy armor.</ORIGINAL>
+    <TRADUIT>Клинок, скованный из редких кристаллов, находит слабые места в броне врага.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>9</IDSTEXTE>
+    <COMMENTAIRE>Sword
+</COMMENTAIRE>
+    <ICON>1003</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>010022F6</ID>
+    <EDID>DoS_Artifacts_Desolator1</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Desolator mk.1</ORIGINAL>
+    <TRADUIT>Опустошитель ур.1</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>14</IDSTEXTE>
+    <COMMENTAIRE>BattleAxe
+</COMMENTAIRE>
+    <ICON>1006</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>010022F6</ID>
+    <EDID>DoS_Artifacts_Desolator1</EDID>
+    <CHAMP>DESC</CHAMP>
+    <ORIGINAL>A wicked weapon, used in torturing political criminals.</ORIGINAL>
+    <TRADUIT>Это проклятое оружие использовалось при пытках особо опасных преступников.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>13</IDSTEXTE>
+    <COMMENTAIRE>BattleAxe
+</COMMENTAIRE>
+    <ICON>1006</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>010022FA</ID>
+    <EDID>DoS_Artifacts_Desolator2</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Desolator mk.2</ORIGINAL>
+    <TRADUIT>Опустошитель ур.2</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>12</IDSTEXTE>
+    <COMMENTAIRE>BattleAxe
+</COMMENTAIRE>
+    <ICON>1006</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>010022FA</ID>
+    <EDID>DoS_Artifacts_Desolator2</EDID>
+    <CHAMP>DESC</CHAMP>
+    <ORIGINAL>A wicked weapon, used in torturing political criminals.</ORIGINAL>
+    <TRADUIT>Это проклятое оружие использовалось при пытках особо опасных преступников.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>11</IDSTEXTE>
+    <COMMENTAIRE>BattleAxe
+</COMMENTAIRE>
+    <ICON>1006</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>01002DCB</ID>
+    <EDID>DoS_Artifacts_CrystalysAmethyst</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Amethyst Crystalys</ORIGINAL>
+    <TRADUIT>Аметистовый Кристалис</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>8</IDSTEXTE>
+    <COMMENTAIRE>Sword
+</COMMENTAIRE>
+    <ICON>1003</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>01002DCB</ID>
+    <EDID>DoS_Artifacts_CrystalysAmethyst</EDID>
+    <CHAMP>DESC</CHAMP>
+    <ORIGINAL>A blade forged from rare crystals, it seeks weak points in enemy armor.</ORIGINAL>
+    <TRADUIT>Клинок, скованный из редких кристаллов, находит слабые места в броне врага.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>7</IDSTEXTE>
+    <COMMENTAIRE>Sword
+</COMMENTAIRE>
+    <ICON>1003</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>01002DCC</ID>
+    <EDID>DoS_Artifacts_CrystalysRuby</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Ruby Crystalys</ORIGINAL>
+    <TRADUIT>Рубиновый Кристалис</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>6</IDSTEXTE>
+    <COMMENTAIRE>Sword
+</COMMENTAIRE>
+    <ICON>1003</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>01002DCC</ID>
+    <EDID>DoS_Artifacts_CrystalysRuby</EDID>
+    <CHAMP>DESC</CHAMP>
+    <ORIGINAL>A blade forged from rare crystals, it seeks weak points in enemy armor.</ORIGINAL>
+    <TRADUIT>Клинок, скованный из редких кристаллов, находит слабые места в броне врага.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>5</IDSTEXTE>
+    <COMMENTAIRE>Sword
+</COMMENTAIRE>
+    <ICON>1003</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>01002DCD</ID>
+    <EDID>DoS_Artifacts_CrystalysSapphire</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Sapphire Crystalys</ORIGINAL>
+    <TRADUIT>Сапфировый Кристалис</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>20</IDSTEXTE>
+    <COMMENTAIRE>Sword
+</COMMENTAIRE>
+    <ICON>1003</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>01002DCD</ID>
+    <EDID>DoS_Artifacts_CrystalysSapphire</EDID>
+    <CHAMP>DESC</CHAMP>
+    <ORIGINAL>A blade forged from rare crystals, it seeks weak points in enemy armor.</ORIGINAL>
+    <TRADUIT>Клинок, скованный из редких кристаллов, находит слабые места в броне врага.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>19</IDSTEXTE>
+    <COMMENTAIRE>Sword
+</COMMENTAIRE>
+    <ICON>1003</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>01002DCE</ID>
+    <EDID>DoS_Artifacts_CrystalysEmerald</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Emerald Crystalys</ORIGINAL>
+    <TRADUIT>Изумрудный Кристалис</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>18</IDSTEXTE>
+    <COMMENTAIRE>Sword
+</COMMENTAIRE>
+    <ICON>1003</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>01002DCE</ID>
+    <EDID>DoS_Artifacts_CrystalysEmerald</EDID>
+    <CHAMP>DESC</CHAMP>
+    <ORIGINAL>A blade forged from rare crystals, it seeks weak points in enemy armor.</ORIGINAL>
+    <TRADUIT>Клинок, скованный из редких кристаллов, находит слабые места в броне врага.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>17</IDSTEXTE>
+    <COMMENTAIRE>Sword
+</COMMENTAIRE>
+    <ICON>1003</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>01002DCF</ID>
+    <EDID>DoS_Artifacts_CrystalysDiamond</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Diamond Crystalys</ORIGINAL>
+    <TRADUIT>Алмазный Кристалис</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>16</IDSTEXTE>
+    <COMMENTAIRE>Sword
+</COMMENTAIRE>
+    <ICON>1003</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>WEAP</GRUP>
+    <ID>01002DCF</ID>
+    <EDID>DoS_Artifacts_CrystalysDiamond</EDID>
+    <CHAMP>DESC</CHAMP>
+    <ORIGINAL>A blade forged from rare crystals, it seeks weak points in enemy armor.</ORIGINAL>
+    <TRADUIT>Клинок, скованный из редких кристаллов, находит слабые места в броне врага.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>15</IDSTEXTE>
+    <COMMENTAIRE>Sword
+</COMMENTAIRE>
+    <ICON>1003</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>NPC_</GRUP>
+    <ID>01000D64</ID>
+    <EDID>DoS_Artifacts_Trader</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Pilinus Flavelius</ORIGINAL>
+    <TRADUIT>Пилинус Флавелиус</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>4</IDSTEXTE>
+    <COMMENTAIRE>Imperial - Мужчина</COMMENTAIRE>
+    <ICON>1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>CELL</GRUP>
+    <ID>00016A10</ID>
+    <EDID>SolitudeBitsandPieces</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Bits and Pieces</ORIGINAL>
+    <TRADUIT>Всякая всячина</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>3</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>PERK</GRUP>
+    <ID>010012CB</ID>
+    <EDID>DoS_Artifacts_CrystalysPerk</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Critical Strike</ORIGINAL>
+    <TRADUIT>Критический удар</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>2</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>PERK</GRUP>
+    <ID>010012CB</ID>
+    <EDID>DoS_Artifacts_CrystalysPerk</EDID>
+    <CHAMP>DESC</CHAMP>
+    <ORIGINAL>Grants each attack a 20% chance to deal 160% damage.</ORIGINAL>
+    <TRADUIT>Дает каждой атаке 20% шанс нанести 160% урона.</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>98</STATUS>
+    <IDSTEXTE>1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+</DocumentElement>
